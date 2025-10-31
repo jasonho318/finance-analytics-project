@@ -1,0 +1,2061 @@
+user_id,signup_date,cancel_date,region,plan_type,price_usd,acquisition_channel
+U00001,2024-05-11,,APAC,BASIC,8.99,referral
+U00002,2023-03-28,,LATAM,Basic,10.99,Organic
+U00003,2023-01-20,2024-05-19,Europe/MENA,Standard,14.99,organic
+U00004,2024-07-29,,LatAm,Standard,14.99,Referral
+U00005,2023-08-02,,LATAM,Standard,13.99,referral
+U00006,2023-07-10,,laTam,PREMIUM,,Partnership
+U00007,2023-06-23,2024-03-10,North America,Basic,9.99,ORGANIC
+U00008,2023-04-19,,NA,Basic,10.99,Organic
+U00009,2024-07-26,,NA,Standard,12.99,Paid Search
+U00010,2023-03-21,,NA,PREMIUM,17.99,Referral
+U00011,2024-06-09,,EMEA,BASIC,9.99,Paid Social
+U00012,2024-07-29,,Asia Pacific,Standard,14.99,Organic
+U00013,2024-02-28,2024-02-15,NA,premium,17.99,Paid Search
+U00014,2023-03-09,2023-08-25,north america,BASIC,9.99,Paid Search
+U00015,2024-04-03,2024-08-03,Asia Pacific,Premium,17.99,Paid Social
+U00016,2023-11-24,,emea,Premium,16.99,Referral
+U00017,2023-01-25,,north america,PREMIUM,17.99,referral
+U00018,2023-01-24,,north america,Premium,18.99,organic
+U00019,2023-03-14,2023-11-30,APAC,Basic,10.99,Partnership
+U00020,2023-06-19,2023-10-05,apac,Standard,13.99,organic
+U00021,2023-06-30,2024-10-24,N. America,Standard,12.99,ORGANIC
+U00022,2024-01-28,,,Basic,8.99,Paid Search
+U00023,2024-04-12,,apac,basic,9.99,organic
+U00024,2023-01-21,2023-02-05,North America,Basic,9.99,Referral
+U00025,2024-03-11,,Europe/MENA,Basic,9.99,Paid Social
+U00026,2023-06-04,2023-11-15,LATAM,basic,9.99,Paid Social
+U00027,2024-07-10,,north america,BASIC,10.99,Paid Search
+U00028,2024-05-19,2024-12-29,EMEA,Standard,13.99,PAID SOCIAL
+U00029,2024-06-28,,APAC,Basic,10.99,Paid Search
+U00030,2024-02-28,,laTam,Basic,9.99,paid social
+U00031,2023-11-22,,LatAm,Basic,9.99,Partnership
+U00032,2023-06-21,,LATAM,,17.99,PARTNERSHIP
+U00033,2023-12-15,,Asia Pacific,Standard,13.99,Partnership
+U00034,2024-04-02,,Europe/MENA,Standard,12.99,PARTNERSHIP
+U00035,2023-08-05,2024-09-01,Asia Pacific,Premium,17.99,Paid Search
+U00036,2024-09-20,,APAC,Basic,8.99,Paid Search
+U00037,2023-01-06,,LatAm,Standard,14.99,Paid Social
+U00038,2024-08-12,,North America,Basic,9.99,Organic
+U00039,2024-09-17,,LATAM,Basic,9.99,Organic
+U00040,2023-05-05,,NA,Pwemium,11.99,Referral
+U00041,2023-11-25,,laTam,basic,8.99,Referral
+U00042,2023-09-22,2024-03-30,Europe/MENA,premium,17.99,Paid Social
+U00043,2023-08-04,,laTam,Standard,13.99,Paid Search
+U00044,2023-05-01,2024-04-13,North America,Standard,13.99,Partnership
+U00045,2023-06-17,2024-09-13,emea,Standard,13.99,PARTNERSHIP
+U00046,2024-08-16,,EMEA,Premium,18.99,organic
+U00047,2023-09-19,,North America,Premium,17.99,referral
+U00048,2023-03-21,,laTam,Premium,17.99,Organic
+U00049,2023-03-14,2024-03-15,APAC,STANDARD,13.99,referral
+U00050,2023-10-23,,,Basic,9.99,Partnership
+U00051,2023-03-17,,LatAm,Standard,13.99,Organic
+U00052,2023-10-06,2024-07-23,laTam,Premium,17.99,PAID SEARCH
+U00053,2024-10-20,,N. America,Premium,16.99,Paid Social
+U00054,2023-09-25,,EMEA,Basic,9.99,Reterral
+U00055,2023-07-25,,Europe/MENA,Basic,9.99,Organic
+U00056,2024-09-18,,LatAm,,18.99,Paid Social
+U00057,2023-02-03,2024-01-25,LATAM,Standard,13.99,Paid Search
+U00058,2024-07-20,,north america,Basic,8.99,Paid Search
+U00059,2023-12-23,,apac,premium,17.99,Paid Search
+U00060,2024-02-21,,emea,BASIC,8.99,Organic
+U00061,2023-04-07,,LATAM,premium,17.99,partnership
+U00062,2023-10-22,,emea,Standard,13.99,PARTNERSHIP
+U00063,2023-03-03,,emea,Basic,9.99,Organic
+U00064,2024-03-04,,LatAm,standard,14.99,Paid Social
+U00065,2023-08-16,2023-12-14,EMEA,Premium,18.99,Paid Social
+U00066,2024-10-06,,North America,BASIC,10.99,paid search
+U00067,2024-05-03,,EMEA,Premium,17.99,referral
+U00068,2024-04-25,,laTam,Premium,18.99,PARTNERSHIP
+U00069,2024-10-31,,EMEA,Standard,13.99,Referral
+U00070,2023-10-08,2023-10-27,LatAm,Basic,8.99,Organic
+U00071,2024-03-24,,laTam,,9.99,Partnership
+U00072,2023-05-30,2023-07-13,Asia Pacific,basic,9.99,PARTNERSHIP
+U00073,2024-07-01,,LATAM,Standard,13.99,Partnership
+U00074,2023-02-24,,NA,Premium,17.99,Paid Search
+U00075,2023-02-05,,apac,Premium,17.99,Referral
+U00076,2024-05-28,,N. America,Standard,13.99,organic
+U00077,2023-06-27,,EMEA,Basic,8.99,paid social
+U00078,2024-08-23,,apac,Standard,13.99,paid search
+U00079,2023-08-13,2023-07-16,EMEA,Basic,10.99,PAID SOCIAL
+U00080,2023-03-03,,N. America,Basic,9.99,Organic
+U00081,2024-10-26,,North America,Basic,9.99,ORGANIC
+U00082,2023-06-30,,Europe/MENA,Premium,18.99,PAID SEARCH
+U00083,2023-03-20,,North America,Premium,17.99,Partnership
+U00084,2023-10-23,,laTam,BASIC,9.99,Paid Search
+U00085,2023-08-04,,N. America,premium,17.99,Referral
+U00086,2023-12-19,,APAC,Premium,17.99,Paid Search
+U00087,2024-05-08,,EMEA,Basic,9.99,Partnership
+U00088,2024-10-09,,apac,Standard,13.99,Referral
+U00089,2023-10-11,,laTam,STANDfRD,11.99,Referral
+U00090,2023-10-15,,Europe/MENA,Premium,18.99,Referral
+U00091,2023-10-03,,apac,Standard,13.99,Paid Search
+U00092,2023-06-12,,LATAM,Standard,13.99,referral
+U00093,2024-06-04,,APAC,Standard,13.99,Partnership
+U00094,2023-07-27,2024-08-01,EMEA,Premium,18.99,Partnership
+U00095,2024-06-29,,Asia Pacific,Standard,13.99,organic
+U00096,2024-06-14,,APAC,Premium,17.99,Partnership
+U00097,2024-05-18,,apac,Basic,9.99,Organic
+U00098,2023-02-25,2023-03-23,NA,Standard,13.99,partnership
+U00099,2024-05-08,,North America,Standard,14.99,Paid Search
+U00100,2023-05-13,,LATAM,Standard,13.99,Orranic
+U00101,2024-07-20,,,Standard,12.99,ORGANIC
+U00102,2023-07-10,,apac,Premium,17.99,Paid Search
+U00103,2023-05-07,,laTam,PREMIUM,16.99,Organic
+U00104,2023-12-26,,laTam,Premimm,10.99,Paid Social
+U00105,2023-07-29,,LATAM,BASIC,10.99,Organic
+U00106,2024-05-12,,LATAM,Premium,17.99,Referral
+U00107,2024-06-18,,NA,Basic,9.99,Paid Social
+U00108,2024-03-08,,Europe/MENA,Premium,18.99,Referral
+U00109,2023-06-20,,N. America,STANDARD,13.99,Paid Search
+U00110,2024-06-15,,NA,Standard,13.99,Paid Social
+U00111,2023-09-09,,north america,Basic,8.99,Paid Social
+U00112,2024-10-16,2024-11-23,N. America,Standard,12.99,PAID SEARCH
+U00113,2024-08-19,,LatAm,Basic,8.99,Partnership
+U00114,2024-08-25,,laTam,Standard,13.99,Paid Search
+U00115,2023-02-13,2023-12-23,EMEA,Basic,9.99,referral
+U00116,2023-06-27,2023-06-16,N. America,premium,16.99,REFERRAL
+U00117,2024-09-30,,Europe/MENA,Basic,9.99,Organic
+U00118,2023-01-25,,N. America,Standard,14.99,Organic
+U00119,2024-09-17,,LatAm,Premium,17.99,Refkrral
+U00120,2023-11-08,,apac,Premium,17.99,Partnership
+U00121,2023-07-27,,North America,Premium,18.99,Paid Search
+U00122,2023-02-21,2023-06-02,EMEA,Premium,16.99,Paid Search
+U00123,2023-06-13,,EMEA,,10.99,Paid Search
+U00124,2024-03-16,,emea,Standwrd,12.99,Partnership
+U00125,2023-09-02,2023-09-26,laTam,Basic,9.99,organic
+U00126,2023-06-15,,APAC,BASIC,9.99,Partnership
+U00127,2024-05-24,,EMEA,bapic,12.99,Referral
+U00128,2023-11-04,,North America,Basic,10.99,Paid Social
+U00129,2024-05-14,,laTam,standard,12.99,Paid Search
+U00130,2023-12-23,,N. America,Standard,13.99,Paid Search
+U00131,2023-04-21,,emea,BASIC,10.99,referral
+U00132,2023-07-25,,APAC,Premium,18.99,paid social
+U00133,2023-04-19,,Asia Pacific,Premium,17.99,referral
+U00134,2023-07-11,,Asia Pacific,Standard,14.99,Paid Social
+U00135,2024-08-01,,laTam,Standard,12.99,Referral
+U00136,2024-03-12,,,Premium,17.99,Partnership
+U00137,2024-02-23,,laTam,Basic,9.99,Paid Search
+U00138,2023-07-24,2023-07-23,APAC,Premium,17.99,Paid Social
+U00139,2024-08-03,2024-12-23,EMEA,BASIC,8.99,Partnership
+U00140,2024-03-30,,emea,Standard,13.99,PAID SOCIAL
+U00141,2023-11-29,,North America,Premium,18.99,Paid Social
+U00142,2024-03-29,2024-03-04,LATAM,Basic,9.99,Paid Social
+U00143,2023-11-07,2024-03-21,Asia Pacific,Standard,12.99,Organic
+U00144,2023-10-09,2024-01-12,NA,Premium,17.99,Paid Social
+U00145,2023-06-20,,APAC,Standard,12.99,Partnership
+U00146,2023-04-18,2023-11-05,North America,Basic,8.99,Partnership
+U00147,2024-01-31,,Asia Pacific,Premium,17.99,Paid Search
+U00148,2024-01-19,2024-01-04,north america,Standard,14.99,Partnership
+U00149,2023-03-12,2023-03-01,Europe/MENA,Standard,13.99,Partnership
+U00150,2024-08-10,,,Basic,10.99,Referral
+U00151,2023-02-06,,emea,,8.99,Referral
+U00152,2024-10-30,,laTam,standard,13.99,Partnership
+U00153,2023-03-27,2024-05-29,LATAM,Basic,9.99,referral
+U00154,2023-04-29,2024-07-07,Asia Pacific,Premium,16.99,PAID SOCIAL
+U00155,2024-05-02,,LATAM,Premium,16.99,Paid Social
+U00156,2023-05-05,2024-03-02,apac,Premium,18.99,Paid Social
+U00157,2024-09-07,,NA,BASIC,10.99,Paid Search
+U00158,2024-06-12,,laTam,Premium,16.99,Organic
+U00159,2023-11-24,2023-12-22,LatAm,Premium,16.99,Organic
+U00160,2024-04-08,2024-06-26,APAC,Basic,10.99,Paid Search
+U00161,2023-02-19,,APAC,Standard,14.99,Paid Social
+U00162,2023-10-26,,LatAm,basic,9.99,Orgamic
+U00163,2024-04-07,,LATAM,Premium,16.99,Referral
+U00164,2023-12-30,,LatAm,Standard,12.99,Referral
+U00165,2024-02-15,,N. America,basic,9.99,Paid Search
+U00166,2023-07-15,,Europe/MENA,Premium,18.99,Paid Social
+U00167,2024-03-05,,LatAm,Standard,14.99,Organic
+U00168,2024-06-12,,Asia Pacific,Standard,13.99,Referral
+U00169,2024-07-13,,apac,Premium,16.99,PAID SOCIAL
+U00170,2023-03-30,,APAC,Premium,18.99,partnership
+U00171,2024-06-13,2024-06-27,LATAM,Standard,13.99,PAID SEARCH
+U00172,2024-02-22,2024-11-20,APAC,Premium,18.99,referral
+U00173,2024-08-06,,Europe/MENA,Basic,8.99,Paitnership
+U00174,2024-08-19,2024-08-04,,premium,16.99,Paid Social
+U00175,2024-05-12,,APAC,Premium,16.99,Referral
+U00176,2023-09-22,2023-11-04,Asia Pacific,Premium,17.99,Partnership
+U00177,2023-03-28,2023-08-04,N. America,Basic,10.99,Partnership
+U00178,2023-08-16,2024-03-26,EMEA,Premium,18.99,Organic
+U00179,2023-12-04,2024-03-09,NA,premium,17.99,Referral
+U00180,2023-05-03,,Europe/MENA,Basic,9.99,Referral
+U00181,2023-12-19,2024-11-21,laTam,Basic,9.99,Organic
+U00182,2023-01-03,,apac,Standard,14.99,PAID SOCIAL
+U00183,2024-07-14,2024-12-23,LatAm,BASIC,10.99,Paid Search
+U00184,2024-07-12,2024-08-22,EMEA,Basic,8.99,REFERRAL
+U00185,2023-07-24,2024-07-15,LatAm,Basic,9.99,PAID SEARCH
+U00186,2024-01-24,,emea,Standard,14.99,Organic
+U00187,2024-08-14,2024-08-13,APAC,Premium,17.99,Paid Social
+U00188,2023-05-19,,Europe/MENA,Basic,10.99,Pqid Social
+U00189,2023-03-24,2023-08-01,north america,Premium,17.99,PARTNERSHIP
+U00190,2024-04-30,,LATAM,Standard,12.99,Paid Social
+U00191,2023-08-20,,emea,Basic,9.99,Referral
+U00192,2024-10-15,,emea,Basic,8.99,Referral
+U00193,2024-05-11,,APAC,Standard,13.99,referral
+U00194,2024-01-30,,North America,Standard,13.99,Referral
+U00195,2024-04-18,,N. America,standard,12.99,Organic
+U00196,2023-06-04,2023-07-18,EMEA,Basic,8.99,Paid Social
+U00197,2023-04-29,,Europe/MENA,Premium,17.99,REFERRAL
+U00198,2023-10-18,2023-09-24,Asia Pacific,STANDARD,13.99,Paid Social
+U00199,2024-08-15,,Asia Pacific,Standard,13.99,Organic
+U00200,2023-05-06,2023-10-22,apac,Premium,17.99,Partnership
+U00201,2024-02-23,,APAC,Premium,18.99,ORGANIC
+U00202,2024-08-27,,laTam,Basic,9.99,Referral
+U00203,2024-02-16,,LatAm,Standard,12.99,Paid Social
+U00204,2023-01-01,2023-06-03,NA,Standard,14.99,Paid Search
+U00205,2024-04-10,,EMEA,,12.99,Referral
+U00206,2023-09-09,,LATAM,Premium,17.99,Referral
+U00207,2024-01-15,,Europe/MENA,Premium,18.99,PAID SOCIAL
+U00208,2023-01-16,2023-04-07,emea,Standard,14.99,referral
+U00209,2023-03-28,,LATAM,BASIC,9.99,Partnership
+U00210,2023-10-09,2023-11-19,Europe/MENA,Premium,16.99,Partnership
+U00211,2024-10-07,,emea,Premium,18.99,Organic
+U00212,2024-09-18,,North America,Standard,14.99,Organic
+U00213,2023-08-27,,LatAm,Premium,16.99,Referral
+U00214,2023-07-05,2024-01-10,emea,Standard,13.99,Partnership
+U00215,2023-02-14,2023-12-09,Asia Pacific,Standahd,11.99,Referral
+U00216,2024-03-16,2024-10-02,LATAM,Premium,17.99,Organic
+U00217,2023-03-03,,EMEA,premium,17.99,Paid Search
+U00218,2023-03-08,,APAC,Standard,13.99,REFERRxL
+U00219,2024-01-13,,laTam,Premium,18.99,Partnership
+U00220,2024-09-25,,emea,Standard,14.99,Orgacic
+U00221,2024-08-13,,NA,Standard,14.99,Referral
+U00222,2024-02-18,,emea,Premium,18.99,Paid Search
+U00223,2024-08-17,,APAC,Premium,17.99,partnership
+U00224,2023-04-08,,emea,Standard,13.99,Paid Search
+U00225,2023-04-10,,APAC,Basic,10.99,Referral
+U00226,2024-05-27,,Asia Pacific,Premium,17.99,Paid Social
+U00227,2024-01-05,2024-05-29,LATAM,Basic,9.99,Partnership
+U00228,2024-03-03,,N. America,Premium,16.99,Partnership
+U00229,2023-05-09,2024-06-03,APAC,Basic,9.99,Paid Search
+U00230,2023-07-25,,emea,Basic,10.99,Paid Search
+U00231,2024-02-14,,APAC,Basic,8.99,Organic
+U00232,2024-04-16,2024-11-26,Asia Pacific,STANDARD,13.99,PARTNERSHIP
+U00233,2023-11-25,2024-12-16,NA,Standard,13.99,Pagd Search
+U00234,2024-02-23,2024-09-20,apac,standard,13.99,Organic
+U00235,2024-08-09,,Europe/MENA,basic,9.99,Referral
+U00236,2024-07-20,,North America,Standard,13.99,Paid Search
+U00237,2024-06-19,,Europe/MENA,Premium,17.99,PAID SOCIAL
+U00238,2023-06-06,,apac,Basic,9.99,Paid Search
+U00239,2024-07-07,,APAC,Standard,13.99,referral
+U00240,2023-08-31,,north america,STANDARD,13.99,paid search
+U00241,2023-11-06,,N. America,Basic,9.99,Referral
+U00242,2024-06-05,,North America,Standard,13.99,Partnership
+U00243,2024-05-19,,LatAm,BASIC,10.99,Partnership
+U00244,2023-10-18,2024-01-27,NA,Basic,9.99,Partnership
+U00245,2023-12-07,,laTam,Basic,8.99,Organic
+U00246,2024-02-07,2024-05-17,Europe/MENA,Basic,9.99,referral
+U00247,2023-12-17,2024-03-05,Europe/MENA,Standard,,Organic
+U00248,2023-04-04,,Europe/MENA,Basic,9.99,Referral
+U00249,2023-07-12,,apac,BASIC,9.99,Paid Search
+U00250,2023-06-24,2024-09-06,emea,Standard,13.99,Paid Search
+U00251,2023-02-19,2024-06-06,north america,Premium,17.99,Paid Search
+U00252,2023-09-20,2023-09-19,APAC,Basic,8.99,Referral
+U00253,2023-01-17,,apac,Basic,10.99,Paid Search
+U00254,2024-04-01,,LATAM,basic,9.99,Paid Social
+U00255,2024-03-06,,apac,Premium,17.99,Partnership
+U00256,2023-06-28,,North America,Premium,17.99,Paid Social
+U00257,2024-04-02,2024-09-18,LatAm,Basic,10.99,Partnership
+U00258,2023-06-21,,LatAm,Standard,13.99,organic
+U00259,2023-01-06,2023-11-05,Asia Pacific,Basic,8.99,REFERRAL
+U00260,2023-02-25,,Asia Pacific,Premium,18.99,paid search
+U00261,2024-07-03,,Europe/MENA,premium,17.99,referral
+U00262,2024-05-05,,APAC,STANDARD,13.99,Paid Search
+U00263,2023-02-15,2023-02-08,North America,Standard,13.99,Organic
+U00264,2023-06-27,,NA,BASIC,10.99,Paid Social
+U00265,2023-02-22,2023-03-31,LATAM,Basic,9.99,organic
+U00266,2023-01-25,2023-01-20,LatAm,Standard,13.99,Organic
+U00267,2024-10-29,,NA,Basic,9.99,Referral
+U00268,2023-09-14,2023-12-24,Europe/MENA,BASIC,8.99,Partnership
+U00269,2023-02-25,2024-01-13,apac,Basic,9.99,Organic
+U00270,2024-02-04,,N. America,Premium,17.99,Partnership
+U00271,2023-07-04,,,Basic,10.99,Paid Social
+U00272,2023-08-05,,laTam,Standard,13.99,Partnership
+U00273,2024-06-03,,emea,Premium,18.99,Organic
+U00274,2024-01-13,2024-09-19,APAC,PREMIUM,17.99,Partnership
+U00275,2023-06-16,,LatAm,Standard,13.99,Partnership
+U00276,2024-02-23,,EMEA,Standard,13.99,Referral
+U00277,2023-04-13,,north america,Premium,17.99,paid social
+U00278,2024-07-15,,north america,Standard,13.99,Referral
+U00279,2024-03-19,,Asia Pacific,Standard,12.99,Paid Social
+U00280,2024-03-23,,north america,Standard,13.99,Partnership
+U00281,2024-01-03,2023-12-30,N. America,Premium,17.99,Partnership
+U00282,2023-07-08,2023-10-19,NA,Premium,16.99,Referral
+U00283,2024-09-01,,N. America,Standard,13.99,Ppid Search
+U00284,2024-09-19,,North America,Basic,8.99,Paid Search
+U00285,2023-11-13,2024-06-08,Europe/MENA,Basic,9.99,Referral
+U00286,2023-05-28,,emea,Standard,14.99,Paid Social
+U00287,2023-03-15,,apac,Basic,9.99,referral
+U00288,2023-03-17,2023-12-30,Europe/MENA,Bvsic,12.99,Partnership
+U00289,2023-12-01,2024-03-04,emea,Standard,13.99,Referral
+U00290,2023-10-03,,LATAM,Basic,9.99,Paid Search
+U00291,2023-11-26,2023-12-27,north america,Basic,9.99,PAID SOCIAL
+U00292,2023-11-16,,North America,Premium,17.99,Organic
+U00293,2023-12-29,,laTam,Premium,17.99,Partnership
+U00294,2024-07-20,,N. America,Standard,13.99,Organic
+U00295,2023-02-12,,Europe/MENA,Premium,18.99,paid social
+U00296,2024-06-07,,LATAM,Premium,17.99,Organic
+U00297,2024-05-22,,Asia Pacific,Basic,9.99,Referral
+U00298,2024-05-16,,apac,Standard,12.99,Paid Search
+U00299,2023-03-18,,APAC,BASIC,10.99,Organic
+U00300,2023-02-17,,apac,Basic,9.99,PARTNERSHIP
+U00301,2023-11-09,,emea,PREMIUM,18.99,Partnership
+U00302,2024-07-19,2024-06-20,LATAM,Standard,13.99,partnership
+U00303,2023-09-21,,Europe/MENA,Standard,14.99,Paid Social
+U00304,2024-09-13,,Europe/MENA,,17.99,referral
+U00305,2024-10-31,,Europe/MENA,Basic,9.99,Paid Search
+U00306,2023-03-26,,LATAM,Standard,13.99,Partnership
+U00307,2023-07-13,,APAC,Basic,9.99,Referral
+U00308,2023-05-29,,Asia Pacific,STANDARD,13.99,Referral
+U00309,2023-05-28,,NA,Basic,10.99,Organic
+U00310,2024-02-21,,EMEA,Basic,9.99,ORGANIC
+U00311,2023-12-15,,,Premium,17.99,Paid Social
+U00312,2023-04-19,,laTam,Standard,13.99,Paid Search
+U00313,2023-11-24,2024-03-19,north america,Basic,9.99,Partnership
+U00314,2023-05-23,,Asia Pacific,Premium,17.99,Paid Search
+U00315,2023-08-05,,Europe/MENA,Premium,17.99,Organic
+U00316,2023-12-26,2024-05-16,APAC,Standard,14.99,PAID SEARCH
+U00317,2023-07-14,2024-05-30,North America,Basic,9.99,Partnership
+U00318,2023-02-28,,LATAM,Standard,13.99,Partnership
+U00319,2023-12-11,,N. America,Basic,9.99,ORGANIC
+U00320,2024-09-19,,apac,Premium,16.99,Paid Social
+U00321,2024-10-31,,N. America,Premium,17.99,Paid Social
+U00322,2024-10-26,,laTam,Premium,18.99,Paid Search
+U00323,2024-03-03,,laTam,standard,13.99,paid social
+U00324,2023-03-18,,Europe/MENA,Basic,9.99,Paid Search
+U00325,2023-02-09,2023-01-23,EMEA,Premium,16.99,Paid Search
+U00326,2024-05-21,2024-11-02,APAC,Basic,9.99,Referral
+U00327,2024-02-24,,LATAM,Baaic,11.99,Paid Social
+U00328,2023-03-14,2023-04-14,EMEA,premium,17.99,Partnership
+U00329,2024-08-08,,NA,premium,18.99,Paid Search
+U00330,2024-10-21,2024-10-10,LatAm,Basic,9.99,PARTNERSHIP
+U00331,2023-07-03,,APAC,Standard,13.99,Paid Search
+U00332,2023-05-10,,NA,Standard,13.99,Partnership
+U00333,2023-11-12,,LatAm,Basic,9.99,Organic
+U00334,2024-01-13,,apac,Premium,17.99,Referral
+U00335,2024-01-09,,LatAm,Basic,8.99,Organic
+U00336,2023-06-16,,emea,standard,14.99,Paid Social
+U00337,2023-11-08,,Europe/MENA,Standard,12.99,referral
+U00338,2023-02-15,,apac,Basic,9.99,Paid Social
+U00339,2023-05-08,,emea,Basic,9.99,Paid Search
+U00340,2023-10-22,2024-07-10,emea,Premium,18.99,Partnersaip
+U00341,2023-10-31,,apac,Preiium,10.99,Partnership
+U00342,2024-09-01,2024-10-09,Europe/MENA,standard,13.99,Paid Social
+U00343,2024-09-01,2024-10-31,LatAm,Basic,9.99,Paid Search
+U00344,2023-12-20,,EMEA,basic,9.99,Paid Search
+U00345,2023-08-10,,,Standard,13.99,Refnrral
+U00346,2024-06-25,,LatAm,Standard,12.99,Partnership
+U00347,2024-07-21,,emea,Standard,13.99,Organic
+U00348,2024-08-31,,EMEA,Premium,16.99,Orranic
+U00349,2024-05-29,,,,18.99,referral
+U00350,2024-07-12,,Europe/MENA,Premium,17.99,Paid Social
+U00351,2024-01-14,,EMEA,Premium,18.99,Paid Search
+U00352,2023-05-01,2023-07-09,APAC,Basic,9.99,REFERRAL
+U00353,2023-05-28,2024-09-19,emea,Premium,16.99,Paid Social
+U00354,2023-08-19,,laTam,Basic,9.99,Organic
+U00355,2023-06-19,2024-04-01,Asia Pacific,Premium,17.99,Partnership
+U00356,2023-02-15,2023-10-01,north america,Basic,9.99,Referral
+U00357,2024-03-25,,apac,Basic,8.99,Organic
+U00358,2024-07-25,,laTam,Standard,13.99,Partnership
+U00359,2024-02-26,,laTam,premium,16.99,Organic
+U00360,2023-02-17,,APAC,Premium,18.99,ORGANIC
+U00361,2024-08-03,,APAC,Basic,10.99,Referral
+U00362,2023-09-01,,north america,Standard,13.99,Paid Social
+U00363,2023-02-14,2023-07-29,apac,Standard,12.99,Paid Social
+U00364,2023-02-08,2024-05-31,apac,Basic,9.99,Referral
+U00365,2024-03-29,2024-10-04,north america,Basic,9.99,Paid Search
+U00366,2024-01-06,,North America,PREMIUM,17.99,Paid Search
+U00367,2024-01-26,2024-09-12,apac,Standard,12.99,Paid Search
+U00368,2024-10-24,,NA,Standard,14.99,Paid Search
+U00369,2024-02-17,,NA,Standard,13.99,partnership
+U00370,2023-05-03,,laTam,STANDARD,13.99,Organic
+U00371,2023-02-14,2024-03-17,EMEA,premium,16.99,Organic
+U00372,2024-01-30,2024-06-05,LatAm,Premium,17.99,PAID SEARCH
+U00373,2023-03-04,,laTam,Premium,18.99,Organic
+U00374,2024-10-23,,APAC,STANDARD,12.99,Paid Social
+U00375,2023-05-25,,N. America,Basic,10.99,Referral
+U00376,2023-02-23,,apac,Standard,13.99,Partnership
+U00377,2024-04-07,2024-05-23,N. America,Basic,9.99,Organic
+U00378,2023-02-22,,Europe/MENA,Basic,8.99,Partnership
+U00379,2024-06-08,,apac,,12.99,Organic
+U00380,2024-10-31,,LatAm,Premium,17.99,Organic
+U00381,2023-07-02,,N. America,Premium,16.99,Partnership
+U00382,2023-11-10,2023-11-05,LatAm,Basic,8.99,Paid Social
+U00383,2023-04-04,,North America,Standard,14.99,Paid Search
+U00384,2024-03-18,,apac,Standard,12.99,Partnership
+U00385,2023-07-11,2024-05-03,LatAm,Standard,14.99,paid search
+U00386,2024-03-25,,emea,Standard,13.99,Partnership
+U00387,2024-04-06,,North America,PREMIUM,16.99,Partnership
+U00388,2023-01-31,,LatAm,Standard,12.99,Paid Social
+U00389,2024-04-26,,Asia Pacific,Premium,17.99,Organic
+U00390,2023-03-05,2024-06-23,LatAm,Premium,17.99,Partnernhip
+U00391,2024-05-25,,EMEA,basic,10.99,ORGANIC
+U00392,2024-03-29,,N. America,Standard,13.99,Paid Search
+U00393,2024-03-15,2024-04-04,LATAM,PREMIUM,18.99,Organic
+U00394,2024-02-11,2024-02-08,NA,Standard,13.99,Paid Social
+U00395,2023-09-03,,emea,Premium,18.99,Referral
+U00396,2023-07-22,2024-11-07,north america,BASIC,10.99,PARTNERSHIP
+U00397,2023-06-08,2023-10-19,NA,Premium,17.99,Partnership
+U00398,2024-06-04,,APAC,Standard,13.99,Partnership
+U00399,2024-07-10,2024-08-22,LatAm,Basic,10.99,Organic
+U00400,2023-09-02,2024-05-07,APAC,Standard,13.99,PARTNERSHIP
+U00401,2023-07-05,2023-11-28,emea,Standard,13.99,Partnership
+U00402,2023-07-26,,Asia Pacific,Standard,12.99,Paid Search
+U00403,2023-11-04,2023-10-17,apac,Basic,9.99,Referral
+U00404,2023-04-12,,Europe/MENA,Premium,16.99,Paid Search
+U00405,2024-06-05,,Asia Pacific,Standard,13.99,Partnership
+U00406,2024-05-16,,EMEA,standard,13.99,Paid Search
+U00407,2023-08-22,,APAC,STANDARD,14.99,Referral
+U00408,2023-12-22,,laTam,Basic,10.99,Partnership
+U00409,2023-09-03,,LATAM,standard,14.99,Partnership
+U00410,2024-08-06,,north america,Basic,9.99,Partnership
+U00411,2023-02-26,,laTam,,16.99,Referral
+U00412,2023-01-08,,emea,Premium,16.99,Paid Search
+U00413,2023-12-22,,NA,Premium,17.99,Paid Social
+U00414,2024-04-27,,apac,Premium,17.99,PARTNERSHIP
+U00415,2024-03-13,,NA,Basic,8.99,Paid Search
+U00416,2023-03-19,,APAC,Basic,9.99,Paid Search
+U00417,2023-02-26,2023-06-01,EMEA,Basic,10.99,Paid Social
+U00418,2024-02-22,2024-05-18,apac,Premium,17.99,Paid Social
+U00419,2023-06-15,,LatAm,Standard,13.99,paid search
+U00420,2024-01-28,,Asia Pacific,Standard,12.99,PARTNERSHIP
+U00421,2023-07-25,,north america,Standard,13.99,Paid Search
+U00422,2023-04-13,,emea,Basic,9.99,Organic
+U00423,2023-09-29,,Asia Pacific,Standard,13.99,paid search
+U00424,2023-02-23,,apac,Basic,9.99,ORGANIC
+U00425,2023-07-09,,APAC,basic,10.99,Paid Search
+U00426,2023-10-15,2024-04-19,EMEA,Premium,17.99,Paid Search
+U00427,2023-08-10,2024-10-05,emea,Premium,17.99,Organic
+U00428,2023-05-03,,LatAm,Standard,13.99,Paid Social
+U00429,2023-12-07,2024-01-29,laTam,Basic,9.99,Paid Social
+U00430,2024-10-09,,N. America,BASIC,8.99,Paid Social
+U00431,2024-02-26,2024-11-20,LatAm,Basic,9.99,Paid Search
+U00432,2024-06-30,2024-10-10,laTam,Standard,12.99,Paid Search
+U00433,2023-08-23,,EMEA,basic,8.99,Paid Social
+U00434,2024-04-20,,EMEA,PREMIUM,17.99,Referral
+U00435,2024-09-18,,Europe/MENA,Premium,16.99,Partnership
+U00436,2024-05-22,,LatAm,Basic,10.99,Organic
+U00437,2024-02-15,,LATAM,Basic,9.99,Referral
+U00438,2023-01-07,,LatAm,BASIC,9.99,Referral
+U00439,2024-06-02,,APAC,Standard,13.99,Partnership
+U00440,2024-09-26,,laTam,Basic,8.99,Paid Social
+U00441,2024-03-06,,LatAm,Standard,13.99,Organic
+U00442,2023-08-21,2024-05-31,emea,Basic,8.99,Organic
+U00443,2024-05-30,,LATAM,Standard,14.99,Paid Search
+U00444,2023-03-22,2023-10-31,APAC,Basic,9.99,Paid Search
+U00445,2023-04-15,,EMEA,Basic,8.99,Referral
+U00446,2023-07-25,2024-01-20,apac,Standard,13.99,Partnership
+U00447,2023-03-31,,N. America,basic,9.99,Paid Social
+U00448,2023-03-25,2024-04-27,LatAm,PREMIUM,17.99,Organic
+U00449,2024-07-30,2024-08-09,North America,Standard,13.99,Partnership
+U00450,2024-03-05,,N. America,PREMIUM,17.99,Paid Social
+U00451,2023-05-01,,north america,PREMIUM,18.99,Paid Social
+U00452,2023-07-31,2023-07-23,North America,Basic,9.99,Organic
+U00453,2023-08-07,,LATAM,basic,9.99,PAID SEARCH
+U00454,2024-04-14,2024-07-31,LATAM,Basic,9.99,Referral
+U00455,2023-06-13,,apac,Basic,9.99,Partnership
+U00456,2024-07-11,,North America,Standard,14.99,Paid Social
+U00457,2023-09-24,2023-12-17,,Pgemium,12.99,Organic
+U00458,2024-06-17,,Europe/MENA,Premium,17.99,Paid Social
+U00459,2024-05-07,,NA,Premium,17.99,Partnership
+U00460,2024-10-24,,emea,Standard,12.99,Paid Search
+U00461,2023-07-25,,apac,Standard,13.99,Partnership
+U00462,2024-01-28,,north america,Premium,18.99,Organic
+U00463,2024-01-15,,North America,Premium,16.99,Paid Search
+U00464,2023-07-15,,North America,PREMIUM,17.99,Paid Social
+U00465,2024-10-19,2024-11-24,apac,Premium,17.99,Paid Social
+U00466,2023-02-09,2023-09-28,North America,,13.99,Partnership
+U00467,2023-03-13,,North America,STANDARD,12.99,Organic
+U00468,2024-05-07,,EMEA,Standard,13.99,paid social
+U00469,2023-11-26,,North America,Basic,9.99,Partnership
+U00470,2024-10-06,,LatAm,Standard,13.99,Organic
+U00471,2023-08-03,,APAC,standard,13.99,Organic
+U00472,2023-02-04,2023-11-30,LATAM,BASIC,9.99,Partnership
+U00473,2023-01-03,2022-12-08,LatAm,Premium,17.99,Organic
+U00474,2023-09-17,,LatAm,BASIC,9.99,Ryferral
+U00475,2023-04-12,,apac,premium,17.99,Partnership
+U00476,2024-05-09,,LATAM,Premium,17.99,Organic
+U00477,2023-07-23,,emea,Prfmium,10.99,Organic
+U00478,2024-07-29,,North America,Premoum,11.99,Referral
+U00479,2024-03-04,,APAC,Premium,16.99,Referral
+U00480,2024-07-02,,LATAM,Basic,9.99,Referral
+U00481,2023-11-29,,LATAM,BASIC,10.99,Paid Search
+U00482,2024-03-11,2024-09-28,North America,Standard,12.99,Paid Social
+U00483,2023-01-08,,NA,Premium,17.99,PAID SEARCH
+U00484,2023-03-28,,Europe/MENA,Standard,14.99,Organic
+U00485,2023-02-28,,APAC,Premium,17.99,Paid Social
+U00486,2024-06-20,,NA,standard,13.99,Partnership
+U00487,2023-04-26,2024-04-13,APAC,Basic,9.99,REFERRAL
+U00488,2024-02-28,,laTam,Basic,9.99,Partnership
+U00489,2023-01-28,2023-03-23,N. America,BASIC,9.99,REFERRAL
+U00490,2024-10-10,2024-11-07,LATAM,Standard,13.99,partnership
+U00491,2023-10-14,2024-01-07,emea,Premium,18.99,Referral
+U00492,2024-03-28,,N. America,Standard,13.99,Partnership
+U00493,2023-04-26,,laTam,Standard,13.99,Organic
+U00494,2023-11-30,,Europe/MENA,Standard,13.99,Referral
+U00495,2023-04-09,,north america,STANDARD,13.99,Referral
+U00496,2023-02-02,,Asia Pacific,Standard,12.99,Partnership
+U00497,2023-08-28,2024-01-07,NA,Premium,18.99,Paid Search
+U00498,2023-10-11,2023-12-28,apac,Standard,13.99,PAID SEARCH
+U00499,2024-09-10,,LATAM,Premium,17.99,REFERRAL
+U00500,2024-10-30,,Europe/MENA,Premium,18.99,PAID SOCIAL
+U00501,2023-01-31,,LATAM,Standard,13.99,Paid Search
+U00502,2023-10-05,,EMEA,Standard,14.99,Partnership
+U00503,2023-06-13,,LATAM,standard,13.99,Organic
+U00504,2024-06-13,,laTam,standard,13.99,Paid Social
+U00505,2023-07-13,2023-09-17,APAC,Premium,18.99,Referral
+U00506,2024-06-02,,Asia Pacific,Standard,13.99,Referral
+U00507,2023-03-21,,North America,Standard,13.99,Referral
+U00508,2023-10-02,,APAC,Standard,14.99,Organic
+U00509,2024-08-28,,APAC,Standard,13.99,Paid Social
+U00510,2024-03-10,2024-12-24,north america,Standard,12.99,Paid Search
+U00511,2023-11-12,,Asia Pacific,Premium,16.99,referral
+U00512,2024-04-27,,Asia Pacific,Basic,8.99,Paid Search
+U00513,2024-08-05,,apac,Premium,18.99,Partnership
+U00514,2023-05-01,,EMEA,Basic,9.99,PARTNERSHIP
+U00515,2023-07-03,,N. America,BASIC,9.99,Referral
+U00516,2023-05-07,,EMEA,Standard,13.99,Partnership
+U00517,2024-09-13,,NA,Basic,9.99,Paid Search
+U00518,2024-09-21,2024-12-22,LatAm,Premium,17.99,Referral
+U00519,2023-05-18,,emea,Standard,13.99,Referral
+U00520,2023-11-17,2023-12-24,,Standard,13.99,Organic
+U00521,2023-01-20,,Europe/MENA,Basic,10.99,Organic
+U00522,2023-05-20,2023-07-17,Europe/MENA,Premium,17.99,Paid Search
+U00523,2024-07-26,,EMEA,Premium,18.99,Referral
+U00524,2023-09-16,,APAC,premium,17.99,partnership
+U00525,2024-08-30,,,Premium,18.99,Referral
+U00526,2023-11-16,2024-07-31,apac,Stzndard,11.99,PARTNERSHIP
+U00527,2024-06-04,2024-10-19,APAC,Basic,8.99,organic
+U00528,2024-07-24,,laTam,Premium,16.99,Organic
+U00529,2024-09-21,,Europe/MENA,Basic,8.99,Referral
+U00530,2023-07-12,,LATAM,basic,8.99,Paid Search
+U00531,2023-07-27,2024-05-08,apac,Basic,10.99,referral
+U00532,2023-05-04,,North America,Bazic,11.99,Paid Search
+U00533,2024-06-28,,North America,Premium,18.99,Paid Search
+U00534,2023-03-25,2023-12-10,EMEA,STANDARD,12.99,Organic
+U00535,2023-10-25,,,Basic,9.99,Organic
+U00536,2023-01-31,,NA,Standard,14.99,organic
+U00537,2024-10-28,,Asia Pacific,Standard,,Paid Social
+U00538,2024-01-01,2024-03-22,LatAm,Premium,17.99,Organic
+U00539,2023-06-22,,N. America,Standard,13.99,Referral
+U00540,2023-06-05,,APAC,standard,13.99,Referral
+U00541,2024-09-26,,,Standard,13.99,Reforral
+U00542,2023-09-29,,Europe/MENA,Standard,13.99,Pajd Social
+U00543,2024-09-29,,Europe/MENA,Standard,14.99,Partnership
+U00544,2024-09-09,,EMEA,Standard,13.99,Paid Search
+U00545,2023-06-26,,emea,Basic,9.99,Referral
+U00546,2023-06-23,2023-06-17,north america,baaic,12.99,Referral
+U00547,2024-05-27,,Asia Pacific,Basic,9.99,Organic
+U00548,2023-05-31,,Asia Pacific,BASIC,8.99,Paid Social
+U00549,2023-11-06,2024-01-29,,standard,13.99,Organic
+U00550,2023-09-12,,emea,Standard,14.99,Organic
+U00551,2023-02-23,,laTam,basic,9.99,Paid Social
+U00552,2024-08-23,,,standard,13.99,Paid Search
+U00553,2023-08-05,2024-01-09,Europe/MENA,Standard,13.99,PARTNERSHIP
+U00554,2023-09-30,,apac,Premium,16.99,Paid Social
+U00555,2024-05-13,2024-07-25,EMEA,Standard,,paid social
+U00556,2024-01-31,,emea,Basic,9.99,PAID SEARCH
+U00557,2023-11-07,,LatAm,Basic,10.99,partnership
+U00558,2024-06-11,,North America,Basic,9.99,partnrrship
+U00559,2023-09-15,2023-11-10,apac,premium,17.99,paid search
+U00560,2023-01-22,,LATAM,Premdum,11.99,Paid Social
+U00561,2023-07-22,2024-01-01,LATAM,Standard,13.99,PARTNERSHIP
+U00562,2023-05-19,,North America,,16.99,Paid Search
+U00563,2024-03-26,,laTam,Standard,13.99,Organic
+U00564,2023-07-26,2024-10-03,LATAM,Premium,16.99,paid social
+U00565,2023-01-30,,APAC,Basic,10.99,Partnership
+U00566,2023-03-26,,LATAM,Sttndard,11.99,Referral
+U00567,2023-12-04,,emea,Basic,9.99,Paid Search
+U00568,2023-09-26,2023-12-19,EMEA,standard,14.99,Organic
+U00569,2024-07-19,,Europe/MENA,Basic,9.99,REFERRAL
+U00570,2024-09-02,,EMEA,BASIC,10.99,PARTNERSHIP
+U00571,2023-09-01,,N. America,Standard,14.99,PARTNERSHIP
+U00572,2023-12-05,,LATAM,BASIC,9.99,Paid Search
+U00573,2024-04-15,,NA,Premium,18.99,Partnership
+U00574,2024-02-02,,Asia Pacific,premium,17.99,REFERRAL
+U00575,2023-03-31,,Europe/MENA,STANDARD,13.99,Organic
+U00576,2023-10-27,,LatAm,standard,13.99,Organic
+U00577,2024-03-23,,APAC,Standard,12.99,organic
+U00578,2023-05-28,2023-07-05,,STANDARD,14.99,Organic
+U00579,2023-07-17,2024-11-08,N. America,Basic,9.99,Paid Social
+U00580,2023-02-04,2024-01-09,emea,Basic,9.99,partnership
+U00581,2024-07-04,,LATAM,Standard,13.99,Partnenship
+U00582,2023-01-02,2024-05-03,EMEA,Standard,13.99,Paid Search
+U00583,2024-02-08,,apac,Premium,17.99,Paid Sezrch
+U00584,2024-02-23,,NA,Basic,9.99,Referral
+U00585,2024-06-17,2024-12-20,laTam,basic,9.99,paid social
+U00586,2024-07-12,,N. America,Standard,13.99,Paid Social
+U00587,2024-07-30,,,Standard,14.99,Paid Search
+U00588,2024-07-26,,North America,Basic,9.99,ORGANIC
+U00589,2024-06-04,,laTam,premium,17.99,paid search
+U00590,2023-06-03,,LATAM,Basic,9.99,REFERRAL
+U00591,2023-10-10,,apac,Premium,18.99,Paid Social
+U00592,2023-12-01,2024-05-18,laTam,Standard,13.99,partnership
+U00593,2023-02-24,2024-01-22,LATAM,Standard,12.99,Paid Search
+U00594,2024-05-30,,North America,Premium,17.99,Referral
+U00595,2023-09-14,,North America,Basic,9.99,Paid Social
+U00596,2024-04-29,2024-04-01,apac,PREMIUM,17.99,Paid Social
+U00597,2023-09-01,2024-11-12,apac,basic,9.99,organic
+U00598,2024-05-30,,North America,Premium,17.99,PARTNERSHIP
+U00599,2024-10-20,,Asia Pacific,basic,9.99,Referral
+U00600,2023-04-07,,Asia Pacific,Premium,17.99,Partnership
+U00601,2024-07-13,,N. America,Basic,9.99,Referral
+U00602,2023-08-22,,LATAM,Premium,17.99,ORGANIC
+U00603,2024-01-29,2024-05-10,EMEA,Premium,17.99,Paid Social
+U00604,2023-08-29,,laTam,Basic,9.99,Paid Social
+U00605,2024-06-01,,laTam,BASIC,10.99,Paid Search
+U00606,2023-11-14,2024-08-22,laTam,Basic,8.99,Paid Search
+U00607,2023-09-11,,N. America,premium,17.99,Paid Search
+U00608,2023-11-09,2024-07-07,LATAM,Premium,18.99,paid social
+U00609,2024-06-25,,LatAm,STAjDARD,11.99,Referral
+U00610,2024-03-06,,NA,Basic,9.99,REFERRAL
+U00611,2023-04-09,,Europe/MENA,Premium,17.99,PAID SOCIAL
+U00612,2023-05-30,2024-06-06,NA,Standard,13.99,Partnership
+U00613,2023-11-23,,,Premium,17.99,Organic
+U00614,2024-05-31,,north america,Basic,9.99,REFERRAL
+U00615,2023-10-22,,Europe/MENA,standard,13.99,paid search
+U00616,2024-06-10,,Europe/MENA,standard,13.99,Referxal
+U00617,2023-05-16,,EMEA,Standard,13.99,REFERRAL
+U00618,2024-04-23,,North America,,9.99,Organic
+U00619,2024-03-18,,emea,standard,14.99,Organic
+U00620,2023-08-22,,LatAm,Premium,17.99,Partnership
+U00621,2023-11-12,,Europe/MENA,basic,10.99,Organic
+U00622,2024-03-01,2024-06-22,,Premium,17.99,Paid Social
+U00623,2024-10-09,,LatAm,STANDARD,13.99,Organic
+U00624,2023-01-01,,APAC,Standard,14.99,Partnership
+U00625,2023-08-25,,APAC,Basic,9.99,ORGANIC
+U00626,2023-08-11,2023-11-12,Europe/MENA,Premium,17.99,Paid Search
+U00627,2023-06-13,,Asia Pacific,Premium,18.99,Partnership
+U00628,2023-11-30,,North America,Standard,12.99,ORGANIC
+U00629,2024-09-02,,Europe/MENA,Basic,10.99,Partnership
+U00630,2024-03-26,2024-05-30,N. America,Premium,17.99,Referral
+U00631,2024-04-16,,LATAM,PREMIUM,17.99,Paid Social
+U00632,2024-05-23,,APAC,Basic,9.99,Referral
+U00633,2023-09-08,,LATAM,basic,9.99,Partnership
+U00634,2023-12-28,,LATAM,Basoc,11.99,Partnership
+U00635,2023-12-10,,apac,Basic,9.99,Referral
+U00636,2024-06-08,,APAC,Premigm,,Organic
+U00637,2024-02-02,,Europe/MENA,Basic,9.99,Referral
+U00638,2024-01-03,2024-07-12,N. America,,9.99,Paid Social
+U00639,2024-09-08,,NA,Basic,9.99,referral
+U00640,2024-09-10,,emea,Standard,13.99,ORGANIC
+U00641,2024-07-25,,LatAm,Basic,9.99,Paid Search
+U00642,2023-05-12,2023-09-06,laTam,Basic,9.99,Paid Search
+U00643,2024-05-26,,North America,Standard,13.99,Paid Social
+U00644,2023-03-07,,Asia Pacific,Premium,18.99,Partnership
+U00645,2023-08-09,2024-01-29,apac,basic,9.99,Paiq Social
+U00646,2024-05-30,,North America,Premium,17.99,REFERRAL
+U00647,2024-05-06,,emea,BASIC,9.99,PARTNERSHIP
+U00648,2024-04-25,2024-05-23,APAC,Basic,8.99,PAID SOCIAL
+U00649,2023-09-18,,Europe/MENA,Standard,14.99,organic
+U00650,2023-03-14,2023-06-23,North America,Bayic,11.99,PaidhSearch
+U00651,2024-06-06,,LATAM,Basic,10.99,Referral
+U00652,2023-08-30,,laTam,PREMIUM,16.99,Referral
+U00653,2023-06-24,,laTam,standard,13.99,PARTNERSHIP
+U00654,2024-09-18,,emea,Premium,18.99,Referral
+U00655,2023-06-04,,emea,Basic,9.99,Referral
+U00656,2023-04-25,2023-05-27,North America,BASIC,9.99,Partnership
+U00657,2023-01-19,2024-01-21,laTam,Standard,13.99,REFERRAL
+U00658,2023-02-05,,EMEA,Basic,9.99,PARTNERSHIP
+U00659,2023-07-10,,emea,Premium,17.99,Organic
+U00660,2024-01-05,,Asia Pacific,Standard,13.99,Partnership
+U00661,2024-04-19,,APAC,Premium,18.99,REFERRAL
+U00662,2024-10-22,,apac,Premium,17.99,Paid Social
+U00663,2024-08-19,2024-07-21,North America,Standard,12.99,Paid Search
+U00664,2023-02-26,,LatAm,Standard,12.99,Paid Social
+U00665,2023-12-20,,N. America,Standard,14.99,Partnership
+U00666,2023-11-18,2024-12-24,LatAm,Standard,13.99,Partnership
+U00667,2024-05-04,,North America,Standsrd,11.99,Paid Social
+U00668,2023-06-01,2023-12-29,APAC,Baswc,11.99,Organic
+U00669,2024-06-24,,LATAM,Standard,13.99,Organic
+U00670,2023-10-26,,apac,BASIC,9.99,referral
+U00671,2024-01-19,,N. America,Standard,13.99,referral
+U00672,2023-11-07,,LatAm,Basic,9.99,Paid Social
+U00673,2023-07-09,,Asia Pacific,Premium,17.99,Paid Social
+U00674,2023-04-25,2024-04-01,apac,Basic,8.99,PAID SEARCH
+U00675,2024-05-24,,NA,Premium,16.99,Partnership
+U00676,2024-06-18,,APAC,STANDARD,13.99,Paid Search
+U00677,2023-01-05,,LatAm,Standard,13.99,Referral
+U00678,2024-08-06,,Asia Pacific,Standard,13.99,paid search
+U00679,2024-10-30,,LATAM,STANDARD,12.99,Referral
+U00680,2024-08-21,,N. America,Premium,17.99,Paid Search
+U00681,2023-03-24,,LatAm,Basic,9.99,Paid Social
+U00682,2024-08-27,,north america,Standard,13.99,Paid Social
+U00683,2023-11-27,,LatAm,Premium,16.99,organic
+U00684,2023-06-19,,Europe/MENA,Standard,13.99,Paid Social
+U00685,2023-05-17,2023-06-14,apac,Premium,17.99,Referral
+U00686,2024-09-16,,north america,Premium,17.99,Referral
+U00687,2024-06-24,,apac,Basic,9.99,Partnership
+U00688,2024-02-07,2024-12-16,,Basic,9.99,Organic
+U00689,2023-12-27,,LATAM,Standard,14.99,Organic
+U00690,2023-02-09,2023-10-27,Asia Pacific,Basic,9.99,Partnership
+U00691,2024-03-08,,Europe/MENA,Premium,17.99,Referral
+U00692,2023-07-13,2024-02-13,,Premium,17.99,Referral
+U00693,2024-10-20,,NA,Standard,13.99,Organic
+U00694,2023-04-05,,Asia Pacific,Basic,9.99,Referral
+U00695,2023-12-21,,,Premium,16.99,Paid Search
+U00696,2023-04-14,2023-04-02,LATAM,PREMIUM,17.99,partnership
+U00697,2024-09-14,,APAC,Standard,12.99,Paid Search
+U00698,2023-12-27,2024-09-04,LatAm,Basic,9.99,referral
+U00699,2024-06-02,,N. America,Standard,14.99,Organic
+U00700,2024-02-17,,NA,Premium,17.99,Organic
+U00701,2024-03-10,,Europe/MENA,Premium,17.99,Paid Social
+U00702,2024-04-07,2024-03-15,Asia Pacific,Premium,18.99,Organic
+U00703,2023-09-04,2024-02-20,,Staydard,11.99,PAID SOCIAL
+U00704,2023-12-10,,Asia Pacific,Premium,17.99,Referral
+U00705,2024-04-20,,emea,Standard,12.99,Referral
+U00706,2024-09-25,,APAC,premium,16.99,Partnership
+U00707,2024-07-12,,north america,Standard,13.99,Paid Social
+U00708,2024-01-28,,Asia Pacific,Standard,13.99,Partnership
+U00709,2023-11-28,,LATAM,Premium,16.99,Partnership
+U00710,2024-10-07,,laTam,Standard,14.99,Organic
+U00711,2024-03-01,,emea,Basic,9.99,Referral
+U00712,2023-12-13,,NA,STANDARD,13.99,Referral
+U00713,2023-05-04,,EMEA,Standard,13.99,ORGANIC
+U00714,2024-07-31,,north america,Premium,16.99,Paid Search
+U00715,2024-10-31,,Europe/MENA,standard,13.99,Referral
+U00716,2024-01-04,2024-03-01,LatAm,Basic,9.99,Organic
+U00717,2023-12-16,,EMEA,Standard,13.99,paid social
+U00718,2023-07-21,2024-07-13,LATAM,Premium,17.99,Paid Social
+U00719,2024-08-06,,Asia Pacific,Premium,17.99,Organic
+U00720,2023-07-12,,laTam,Standard,13.99,Partnership
+U00721,2024-10-14,,laTam,STANDARD,13.99,PARTNERSHIP
+U00722,2024-05-10,2024-12-07,LATAM,Basic,9.99,paid social
+U00723,2023-08-04,,APAC,Premium,17.99,Organic
+U00724,2024-08-17,,apac,Basic,9.99,Referral
+U00725,2024-08-27,,,Premium,17.99,Partnership
+U00726,2024-02-09,2024-01-16,north america,Standard,13.99,Referral
+U00727,2024-01-12,,Europe/MENA,Standard,14.99,ORGANIC
+U00728,2024-05-01,,apac,Premium,18.99,Referral
+U00729,2023-07-05,,EMEA,Standard,13.99,Paid Search
+U00730,2023-08-02,,LATAM,Premium,17.99,Referral
+U00731,2023-12-08,,LATAM,Basic,,Paid Social
+U00732,2023-03-02,,NA,Premium,17.99,Paid Search
+U00733,2024-07-08,,LatAm,Premium,17.99,Organic
+U00734,2023-08-10,2024-02-11,Europe/MENA,BASIC,9.99,Organic
+U00735,2023-07-02,2023-09-03,NA,Premium,17.99,ORGANIC
+U00736,2023-07-31,,Asia Pacific,Premium,18.99,Paid Social
+U00737,2023-09-18,2023-10-25,EMEA,PREMIUM,17.99,Organic
+U00738,2023-09-06,2023-09-16,NA,BASIC,9.99,Referral
+U00739,2024-02-24,,,Basic,9.99,Partnership
+U00740,2023-03-04,,NA,Premium,16.99,Paid Search
+U00741,2023-04-18,,APAC,Basic,9.99,Organic
+U00742,2023-04-28,2023-06-07,LATAM,Basic,9.99,Partnership
+U00743,2023-06-29,2024-08-23,north america,Basic,8.99,Paid Search
+U00744,2023-10-25,,Europe/MENA,Standard,13.99,Partnership
+U00745,2024-06-23,,North America,basic,10.99,Paid Social
+U00746,2023-04-29,2023-10-28,Europe/MENA,Premium,17.99,Referral
+U00747,2024-07-02,,Europe/MENA,Standard,13.99,Organic
+U00748,2023-06-16,2023-11-19,laTam,Basic,10.99,Paid Social
+U00749,2023-02-19,,Asia Pacific,BASIC,10.99,Referral
+U00750,2023-11-19,,APAC,Premium,17.99,Partnership
+U00751,2023-11-13,,north america,Premium,18.99,Paid Search
+U00752,2023-09-15,,Europe/MENA,Baric,12.99,Paid Search
+U00753,2023-12-28,,EMEA,STANDARD,13.99,Partnership
+U00754,2023-11-19,,LATAM,premium,17.99,Paid Search
+U00755,2023-02-18,2024-01-18,Europe/MENA,Standard,13.99,Partnership
+U00756,2023-06-10,,Europe/MENA,Premium,17.99,Referral
+U00757,2024-10-08,,north america,basic,9.99,REFERRAL
+U00758,2023-11-23,,Asia Pacific,Standard,13.99,partnership
+U00759,2023-10-30,,EMEA,Basic,10.99,Organic
+U00760,2024-08-20,,EMEA,,16.99,Partnership
+U00761,2024-03-29,,EMEA,Basic,9.99,Paid Search
+U00762,2024-06-24,,north america,Basic,9.99,Referral
+U00763,2023-01-16,,emea,Premium,17.99,Partnership
+U00764,2024-10-27,,North America,Standard,13.99,Referral
+U00765,2024-08-17,,APAC,Basic,9.99,Referral
+U00766,2024-03-23,,EMEA,Basic,,partnership
+U00767,2023-10-23,,apac,basic,9.99,Organic
+U00768,2024-01-06,,APAC,Standard,12.99,Partnership
+U00769,2023-01-05,,APAC,Standard,13.99,Organic
+U00770,2023-10-01,2024-08-03,north america,Basic,9.99,Paid Social
+U00771,2023-08-20,,apac,Basic,9.99,Organic
+U00772,2024-08-08,,Europe/MENA,Standard,12.99,Paid Social
+U00773,2023-10-30,,North America,Standard,13.99,referral
+U00774,2024-10-24,,North America,Premium,18.99,Paid Social
+U00775,2024-10-11,2024-12-29,north america,Premium,16.99,Organic
+U00776,2023-11-22,2024-05-08,LatAm,PREMIUM,18.99,Paid Social
+U00777,2024-02-23,,NA,basic,9.99,Paid Social
+U00778,2024-08-03,,APAC,Basic,10.99,PARTNERSHIP
+U00779,2024-07-24,,LATAM,Standard,13.99,Paid Social
+U00780,2024-02-29,,EMEA,Basic,10.99,Paid Search
+U00781,2024-09-13,,NA,Premium,17.99,Partnership
+U00782,2024-04-13,,laTam,,9.99,Paid Search
+U00783,2023-06-21,2024-07-02,APAC,STANDARD,14.99,paid search
+U00784,2024-01-15,,LATAM,Basic,8.99,Paid Search
+U00785,2023-06-20,,,Standard,12.99,REFERRAL
+U00786,2023-07-31,,,Standard,13.99,Organic
+U00787,2023-12-05,2024-08-05,LATAM,Premium,18.99,Paid Search
+U00788,2024-01-13,2024-09-23,north america,Standard,14.99,organic
+U00789,2023-01-23,2024-05-10,Asia Pacific,Standard,13.99,Referral
+U00790,2023-10-30,,laTam,premium,17.99,Referral
+U00791,2023-09-19,,apac,BASIC,8.99,Paid Social
+U00792,2024-06-03,,Europe/MENA,Premium,17.99,PARTNERSHIP
+U00793,2024-06-11,,Europe/MENA,Basic,8.99,Organic
+U00794,2024-09-11,,LatAm,Premium,17.99,paid social
+U00795,2023-11-11,2024-04-22,EMEA,Standard,13.99,Referral
+U00796,2024-07-16,,Asia Pacific,Standard,12.99,Paid Social
+U00797,2023-05-09,,apac,Standord,11.99,Referral
+U00798,2023-04-10,2024-07-09,Europe/MENA,Premium,17.99,Organic
+U00799,2024-04-28,,LATAM,Premium,18.99,Paid Search
+U00800,2024-02-19,,EMEA,Basic,8.99,Organic
+U00801,2023-01-21,2023-02-03,EMEA,BASIC,9.99,Referral
+U00802,2023-11-03,,NA,Premium,18.99,Paid Social
+U00803,2024-04-04,2024-04-30,LATAM,Premium,17.99,Referral
+U00804,2024-03-14,2024-10-30,EMEA,PREMIUM,17.99,Referral
+U00805,2024-05-29,2024-08-18,apac,STANDARD,12.99,Paid Social
+U00806,2023-01-22,,laTam,Standard,13.99,Paid Social
+U00807,2023-03-07,,Europe/MENA,Basic,10.99,Paid Search
+U00808,2024-05-14,,Asia Pacific,Basic,8.99,Paid Search
+U00809,2023-11-29,,LatAm,Basic,9.99,Paid Search
+U00810,2023-04-16,,apac,,17.99,Paid Search
+U00811,2023-12-25,,Europe/MENA,premium,16.99,Paid Search
+U00812,2023-05-22,2024-07-07,APAC,Standard,13.99,partnership
+U00813,2023-02-09,2023-05-22,APAC,Premium,18.99,PAID SOCIAL
+U00814,2023-07-22,2024-03-05,APAC,Basic,9.99,Paid Search
+U00815,2023-10-22,,north america,BASIC,10.99,Partnership
+U00816,2023-09-12,2024-06-29,laTam,Basic,9.99,Partnership
+U00817,2023-06-14,,emea,Standord,11.99,Partnership
+U00818,2023-09-11,,N. America,standard,13.99,Partnership
+U00819,2023-09-20,2024-07-18,emea,Premium,17.99,Paid Social
+U00820,2024-08-14,,apac,,9.99,Paim Social
+U00821,2023-08-05,2024-01-28,north america,Basic,9.99,Partnership
+U00822,2024-08-07,,EMEA,Basic,9.99,Paid Search
+U00823,2024-10-08,,LatAm,Basic,10.99,Paid Social
+U00824,2023-11-24,,laTam,Bisic,10.99,Paid Social
+U00825,2024-10-10,,LatAm,Premium,17.99,Paid Social
+U00826,2023-03-05,,apac,Premium,18.99,PAID SEARCH
+U00827,2024-01-01,,NA,basic,8.99,Partnership
+U00828,2023-01-16,,EMEA,Standard,14.99,PARTNERSHIP
+U00829,2024-08-04,,apac,Standard,13.99,Referral
+U00830,2024-02-23,,North America,,9.99,referral
+U00831,2023-02-10,,N. America,PREMIUM,17.99,Paid Social
+U00832,2023-09-29,2024-07-17,emea,Standard,14.99,Organic
+U00833,2023-06-24,,north america,Premium,17.99,Paid Search
+U00834,2024-05-19,,EMEA,Premium,16.99,Partnership
+U00835,2023-02-23,2024-03-29,laTam,Standard,14.99,Paid Search
+U00836,2024-08-29,,EMEA,Premium,18.99,PAID SOCIAL
+U00837,2024-05-21,2024-05-05,North America,Premium,17.99,Referral
+U00838,2023-02-01,2024-05-30,Europe/MENA,Premium,17.99,paid social
+U00839,2024-08-08,,Asia Pacific,Premium,17.99,Partnership
+U00840,2023-01-25,,north america,Basic,9.99,Paid Search
+U00841,2023-07-12,2024-01-12,laTam,BASIC,9.99,Partnership
+U00842,2023-06-04,,N. America,Basic,10.99,PARTNERSHIP
+U00843,2024-10-13,,,Basic,9.99,Organic
+U00844,2023-01-16,,NA,Premium,17.99,Partnership
+U00845,2024-04-27,2024-07-05,North America,Basic,9.99,PARTNERSHIP
+U00846,2023-04-29,2023-05-23,Europe/MENA,PREMIUM,17.99,Paid Search
+U00847,2023-07-05,,NA,Basic,9.99,referral
+U00848,2023-04-09,,N. America,Standard,14.99,Referral
+U00849,2024-01-03,2024-09-08,NA,,13.99,Referral
+U00850,2024-06-03,,,Premium,18.99,Partnership
+U00851,2023-03-30,,laTam,Standard,13.99,PARTNERSHIP
+U00852,2024-03-14,2024-06-14,apac,Basic,9.99,Organic
+U00853,2023-06-19,2023-06-15,apac,Basic,8.99,Organic
+U00854,2023-12-28,,Europe/MENA,Premium,17.99,Paid Search
+U00855,2024-06-27,,North America,Basic,10.99,PAID SOCIAL
+U00856,2023-07-19,,NA,Premium,16.99,Organic
+U00857,2024-08-18,,LATAM,Basic,9.99,Paid Search
+U00858,2023-10-14,,laTam,Basic,9.99,Organic
+U00859,2023-05-11,,LATAM,Premium,18.99,Paid Social
+U00860,2024-04-15,,Asia Pacific,Basic,9.99,Paid Search
+U00861,2024-04-16,2024-03-18,emea,PREMIUM,18.99,PAID SOCIAL
+U00862,2024-08-03,,EMEA,premium,17.99,Paid Social
+U00863,2024-07-11,2024-10-29,north america,Standard,13.99,Referral
+U00864,2023-03-30,,apac,,9.99,Organic
+U00865,2024-08-27,,,Basic,9.99,Partnership
+U00866,2024-09-28,2024-11-20,north america,Basic,9.99,Referral
+U00867,2023-05-08,,Asia Pacific,premium,18.99,Organic
+U00868,2023-08-30,2023-09-16,emea,Premium,16.99,paid search
+U00869,2023-03-25,,Europe/MENA,basic,9.99,Paid Search
+U00870,2024-03-25,,LATAM,Standard,13.99,Paid Search
+U00871,2023-01-20,2023-03-16,EMEA,Premium,18.99,Partnership
+U00872,2023-08-31,2024-06-05,,STANDARD,12.99,Paid Social
+U00873,2024-03-23,,north america,Standard,14.99,Paid Social
+U00874,2024-06-10,,Asia Pacific,Premium,18.99,Partnership
+U00875,2023-10-19,,emea,Standard,14.99,Referral
+U00876,2023-11-05,,north america,Standard,13.99,Paid Search
+U00877,2024-07-09,,emea,Standard,12.99,Partnership
+U00878,2023-06-04,2023-11-01,LATAM,BASIC,9.99,Paid Social
+U00879,2023-03-01,2023-09-03,EMEA,Basic,8.99,Paid Search
+U00880,2024-04-04,,LatAm,Standard,12.99,Paid Search
+U00881,2024-06-20,,apac,standard,13.99,Paid Social
+U00882,2024-10-07,,North America,Basic,9.99,Referral
+U00883,2024-05-02,,emea,Basic,9.99,Partnership
+U00884,2023-07-08,,Asia Pacific,Premium,16.99,Referral
+U00885,2023-03-21,,LatAm,standard,12.99,Referral
+U00886,2024-06-25,,North America,basic,9.99,REFERRAL
+U00887,2024-08-23,,LATAM,Basic,10.99,Organic
+U00888,2023-08-23,2024-11-13,,Basic,8.99,Paid Social
+U00889,2024-10-22,,Asia Pacific,Standard,13.99,Organic
+U00890,2024-06-15,,NA,Standard,14.99,Partnership
+U00891,2024-04-11,,Asia Pacific,Basic,9.99,Organic
+U00892,2024-09-17,2024-08-20,Europe/MENA,Premium,17.99,Paid Search
+U00893,2023-04-05,2024-03-22,EMEA,Basic,10.99,PAID SOCIAL
+U00894,2024-09-10,,LATAM,Basic,8.99,Organic
+U00895,2024-03-15,,laTam,standard,13.99,Paid Search
+U00896,2024-08-30,,EMEA,Standard,12.99,Paid Social
+U00897,2023-02-01,,LATAM,standard,13.99,ORGANIC
+U00898,2023-09-27,2024-03-26,LatAm,Basic,9.99,Paid Social
+U00899,2024-02-18,,EMEA,Basic,9.99,Partnership
+U00900,2023-11-29,,LatAm,Standard,13.99,Paid Social
+U00901,2024-05-28,,Europe/MENA,premium,16.99,Paid Social
+U00902,2023-10-15,,LATAM,Premium,17.99,Partnership
+U00903,2023-02-23,,APAC,Premium,17.99,REFERRAL
+U00904,2024-01-28,2024-07-07,N. America,Basic,9.99,Partnership
+U00905,2024-05-17,,laTam,Premium,17.99,Partnership
+U00906,2023-09-23,,NA,Standard,14.99,Organic
+U00907,2023-01-10,,LATAM,Premium,16.99,Paid Search
+U00908,2024-10-21,,north america,Standard,13.99,Partnership
+U00909,2023-11-23,,LATAM,Basic,8.99,Organic
+U00910,2024-09-30,,Europe/MENA,Basic,9.99,PAID SEARCH
+U00911,2024-01-16,,laTam,Basic,9.99,Paid Search
+U00912,2023-12-03,,LatAm,Basic,9.99,partnership
+U00913,2023-10-09,2023-09-19,LATAM,Standard,14.99,Paid Search
+U00914,2024-05-08,,,Premium,17.99,Paid Search
+U00915,2024-10-05,,apac,PREMIUM,17.99,Partnership
+U00916,2023-12-24,2024-07-25,laTam,Premium,18.99,Paid Search
+U00917,2024-07-03,2024-12-15,Europe/MENA,premium,17.99,Partneeship
+U00918,2023-12-05,,N. America,Standard,12.99,Partnership
+U00919,2023-05-17,,EMEA,Premium,17.99,Paid Search
+U00920,2024-07-23,,Europe/MENA,premium,16.99,PARTNERSHIP
+U00921,2024-02-10,,Europe/MENA,Basic,9.99,REFERRAL
+U00922,2024-05-20,,LATAM,Basic,9.99,Referral
+U00923,2023-07-29,,apac,Standard,13.99,REFERRAL
+U00924,2024-04-23,,N. America,Standard,13.99,Referral
+U00925,2024-09-19,,APAC,Premium,17.99,Partnership
+U00926,2024-02-23,,laTam,premium,17.99,Organic
+U00927,2024-08-24,,APAC,Standard,14.99,Partnership
+U00928,2024-01-11,2024-07-14,APAC,Basic,9.99,Paid Social
+U00929,2023-12-28,2024-02-28,apac,Standard,13.99,Paid Search
+U00930,2023-12-05,2024-02-12,Europe/MENA,Standard,14.99,paid social
+U00931,2024-10-03,2024-11-24,Europe/MENA,Basxc,11.99,Organic
+U00932,2024-04-05,,N. America,Standard,12.99,Organic
+U00933,2023-07-28,2024-09-20,apac,Premium,18.99,Okganic
+U00934,2024-10-23,,LATAM,Standard,13.99,Partnership
+U00935,2023-07-10,,LATAM,Premium,17.99,Partnership
+U00936,2024-10-07,,Asia Pacific,Basic,9.99,Organic
+U00937,2023-03-09,2024-01-05,Asia Pacific,Standard,13.99,referral
+U00938,2023-08-05,2023-08-28,Asia Pacific,Standard,12.99,Referral
+U00939,2023-12-17,2024-10-10,LatAm,Basic,9.99,Referral
+U00940,2023-07-09,,NA,Standard,13.99,Referral
+U00941,2024-08-05,,N. America,Basic,10.99,paid social
+U00942,2023-12-27,2024-08-30,APAC,Premium,16.99,Referral
+U00943,2024-03-18,,Europe/MENA,Basic,10.99,Organic
+U00944,2024-04-19,,EMEA,Premium,17.99,Organic
+U00945,2024-06-02,,N. America,Standard,13.99,Partnership
+U00946,2023-10-22,,North America,,13.99,Paid Search
+U00947,2023-09-19,,emea,BASIC,10.99,PAID SOCIAL
+U00948,2023-01-23,,emea,Basic,9.99,Partnership
+U00949,2024-01-19,,N. America,Premium,18.99,Partnership
+U00950,2024-10-22,,APAC,Premium,17.99,ORGANIC
+U00951,2023-09-10,,laTam,Standard,13.99,ORGANIC
+U00952,2023-05-22,2023-06-27,LATAM,Standard,13.99,Organic
+U00953,2024-01-14,,laTam,,8.99,Paid Social
+U00954,2023-06-14,,Asia Pacific,Premium,16.99,Referral
+U00955,2023-10-03,,LatAm,Standard,12.99,Paid Search
+U00956,2024-09-11,,Asia Pacific,BASIC,8.99,paid social
+U00957,2023-07-20,2024-04-13,laTam,Standard,13.99,PAID SOCIAL
+U00958,2023-09-22,,,Basic,10.99,Paid Social
+U00959,2023-08-06,2024-10-25,laTam,Standard,14.99,Paid Search
+U00960,2024-04-08,,EMEA,Standard,12.99,Paid Search
+U00961,2024-06-28,,Asia Pacific,Premium,16.99,orginic
+U00962,2024-03-07,,laTam,PREMIUM,17.99,Partnership
+U00963,2023-01-08,2023-07-15,apac,Premium,16.99,Referral
+U00964,2024-02-06,2024-05-11,APAC,Standard,13.99,Organic
+U00965,2023-05-29,2023-12-02,NA,premium,16.99,Paid Social
+U00966,2023-03-08,2024-03-29,APAC,STANDARD,13.99,Referral
+U00967,2023-07-07,,EMEA,Basic,10.99,Referral
+U00968,2024-07-13,,laTam,premium,18.99,Paid Social
+U00969,2023-11-12,2024-06-12,LATAM,basic,9.99,Referral
+U00970,2024-01-15,2024-02-01,LATAM,premium,17.99,Partnership
+U00971,2024-03-07,,EMEA,premium,18.99,PARTNERSHIP
+U00972,2024-08-11,,North America,Basic,,Partnership
+U00973,2023-07-06,,NA,Premium,18.99,Paid Social
+U00974,2024-06-20,,LATAM,Standard,13.99,Paid Search
+U00975,2024-01-05,,LatAm,Premium,17.99,Partnership
+U00976,2024-05-16,,Asia Pacific,Premium,17.99,PARTNERSHIP
+U00977,2024-07-06,,emea,Standard,14.99,Referral
+U00978,2024-01-17,2023-12-20,EMEA,Standard,12.99,Paid Social
+U00979,2023-12-15,2024-12-15,APAC,Standard,13.99,Partnership
+U00980,2024-09-07,,Asia Pacific,Standard,13.99,REFERRAL
+U00981,2023-01-14,,north america,Standard,13.99,Partnership
+U00982,2023-03-14,2023-06-18,Asia Pacific,Standard,14.99,Partnership
+U00983,2023-08-17,,APAC,Premium,17.99,Organic
+U00984,2023-06-22,,laTam,,9.99,Paid Social
+U00985,2023-11-11,2023-12-05,APAC,basic,9.99,Paid Search
+U00986,2024-06-21,,APAC,Basic,10.99,Paid Social
+U00987,2023-07-08,,north america,basic,10.99,partnership
+U00988,2023-08-26,,emea,Standard,14.99,Paid Search
+U00989,2024-05-30,,N. America,Basic,10.99,Referral
+U00990,2024-03-27,,Europe/MENA,Premium,17.99,Partnership
+U00991,2023-10-14,,emea,Premium,17.99,Paid Search
+U00992,2024-01-03,2024-07-04,Europe/MENA,Basic,10.99,Organic
+U00993,2024-03-05,,apac,Premium,17.99,Paid Search
+U00994,2024-02-17,,APAC,Premium,17.99,Paid Slcial
+U00995,2023-11-27,,LatAm,STANDARD,13.99,paid search
+U00996,2024-08-02,,North America,Basic,9.99,Paid Social
+U00997,2024-03-03,2024-12-23,LATAM,BASIC,9.99,PAIk SEARCH
+U00998,2023-10-01,,apac,Basic,10.99,Paid Social
+U00999,2024-06-29,,North America,standard,12.99,Partnership
+U01000,2023-12-19,,emea,Basic,10.99,Paid Search
+U01001,2023-07-30,,N. America,STANDARD,13.99,PAID SOCIAL
+U01002,2023-08-27,2024-06-19,NA,Standard,13.99,Organic
+U01003,2023-07-15,,NA,Basic,10.99,Organic
+U01004,2023-06-29,,laTam,Premium,17.99,Paid Social
+U01005,2023-04-04,2023-04-02,north america,Premixm,11.99,Organic
+U01006,2023-05-30,2024-08-06,north america,basic,9.99,Partnership
+U01007,2023-09-03,2024-08-26,Asia Pacific,Premium,16.99,PAID SOCIAL
+U01008,2023-04-03,,Asia Pacific,Premium,18.99,Partnership
+U01009,2024-07-31,,north america,Premium,17.99,PAID SOCIAL
+U01010,2024-02-21,,Europe/MENA,Premium,17.99,Paid Search
+U01011,2024-08-15,,apac,PREMIUM,16.99,paid social
+U01012,2024-06-20,,North America,Basic,9.99,Paid Search
+U01013,2023-05-24,,APAC,Premium,16.99,Partnership
+U01014,2023-05-29,,LATAM,Standard,12.99,Referral
+U01015,2023-06-18,,APAC,Basic,9.99,Organic
+U01016,2024-07-27,,North America,Premium,18.99,PARTNERSHIP
+U01017,2024-01-12,,NA,Premium,17.99,Referral
+U01018,2023-08-03,,North America,Basic,9.99,Paid Social
+U01019,2024-07-16,,APAC,Premium,17.99,REFERRAL
+U01020,2024-04-02,,Europe/MENA,Premium,17.99,Referral
+U01021,2024-08-13,,Asia Pacific,Standard,14.99,ORGANIC
+U01022,2024-02-12,2024-07-28,emea,PREMIUM,17.99,Partnership
+U01023,2024-04-08,,emea,premium,17.99,PAID SOCIAL
+U01024,2023-08-08,,North America,Basic,9.99,referral
+U01025,2023-03-20,,,STANDARD,13.99,Referral
+U01026,2024-10-08,,laTam,premium,18.99,Referral
+U01027,2023-05-31,,N. America,Basic,9.99,Paid Social
+U01028,2023-08-19,2024-12-02,APAC,Premium,18.99,Paid Search
+U01029,2023-06-26,2023-08-12,Asia Pacific,Standard,13.99,ORGANIC
+U01030,2023-10-08,,Asia Pacific,Premium,17.99,Organfc
+U01031,2023-08-23,,apac,Basic,8.99,referral
+U01032,2023-01-11,,APAC,Standard,13.99,Organic
+U01033,2024-07-03,2024-10-06,apac,Basic,8.99,Organic
+U01034,2024-02-19,,laTam,Premium,17.99,Referral
+U01035,2023-04-09,2023-11-25,emea,,13.99,Partnership
+U01036,2023-08-02,,apac,Premium,16.99,Paid Social
+U01037,2023-02-05,,emea,Premium,17.99,Paid Social
+U01038,2023-02-12,,LatAm,Standard,13.99,Partnership
+U01039,2024-03-05,,Europe/MENA,Premium,17.99,Paid Search
+U01040,2023-08-15,,Europe/MENA,,18.99,Paid Search
+U01041,2024-06-25,,emea,baeic,12.99,Paid Social
+U01042,2024-05-10,,NA,Standard,13.99,Partnership
+U01043,2024-08-07,,LATAM,Basic,8.99,Organic
+U01044,2024-01-17,2024-12-02,NA,Basic,9.99,Partnership
+U01045,2023-03-21,,apac,Standard,12.99,Paid Social
+U01046,2023-01-10,,LATAM,Standard,12.99,Reserral
+U01047,2023-08-09,,laTam,Basic,9.99,Partnership
+U01048,2023-12-31,,laTam,Premium,17.99,paid social
+U01049,2024-01-07,,LatAm,Basic,8.99,Paid Social
+U01050,2023-12-09,,laTam,Standard,13.99,Referral
+U01051,2023-09-22,,LATAM,Basic,10.99,Paid Search
+U01052,2023-05-24,2023-05-02,Asia Pacific,standard,13.99,Organic
+U01053,2023-02-09,2024-03-05,laTam,Standard,13.99,Paid Search
+U01054,2023-07-16,,Asia Pacific,Bapic,12.99,Paid Social
+U01055,2023-03-30,2023-04-20,laTam,Premium,18.99,Referral
+U01056,2024-09-30,,EMEA,Standard,13.99,Referral
+U01057,2023-02-20,,EMEA,Premium,17.99,Referral
+U01058,2023-11-08,,LATAM,Standard,13.99,Partnership
+U01059,2024-01-17,,LatAm,Basic,9.99,Paid Search
+U01060,2023-02-27,2024-07-08,emea,,17.99,Paid Search
+U01061,2024-03-24,,LatAm,Basic,10.99,referral
+U01062,2024-05-03,,apac,Standard,13.99,paid search
+U01063,2024-06-17,,laTam,basic,9.99,Paid Social
+U01064,2023-02-11,2023-09-14,apac,Premium,17.99,Paid Social
+U01065,2023-04-28,,apac,basic,8.99,Paid Social
+U01066,2023-04-26,2024-07-13,apac,Premium,17.99,referral
+U01067,2024-09-22,2024-08-25,EMEA,BASIC,9.99,Referral
+U01068,2024-03-13,,laTam,BASIC,9.99,Partnership
+U01069,2023-08-24,,LatAm,Standard,12.99,partnership
+U01070,2023-03-08,,APAC,Standard,12.99,Paid Search
+U01071,2023-07-12,,north america,Premium,17.99,Partnership
+U01072,2023-04-03,,LatAm,Standard,13.99,Paid Social
+U01073,2024-03-09,,Europe/MENA,Premium,17.99,Paid Social
+U01074,2024-08-16,,laTam,Premium,16.99,Referral
+U01075,2023-11-20,,north america,Statdard,10.99,organic
+U01076,2024-04-08,,LatAm,Basic,8.99,REFERRAL
+U01077,2024-09-06,,laTam,Premium,17.99,Partnership
+U01078,2024-04-25,,EMEA,Basic,9.99,Paid Social
+U01079,2023-06-25,,,standard,13.99,Paid Social
+U01080,2024-08-25,,North America,Premium,18.99,Partnership
+U01081,2024-02-10,,emea,Premium,16.99,Paid Social
+U01082,2023-10-23,,,BASIC,9.99,Paid Search
+U01083,2023-12-16,,,Basic,8.99,Partnersoip
+U01084,2023-08-19,2024-12-06,Asia Pacific,Standard,13.99,PAID SOCIAL
+U01085,2024-10-30,2024-12-01,laTam,Premium,17.99,Paid Search
+U01086,2024-04-02,,LATAM,Standard,13.99,Paid Search
+U01087,2023-11-30,,emea,premium,18.99,Organic
+U01088,2023-08-26,,LatAm,Standard,14.99,Paid Social
+U01089,2024-03-17,2024-09-28,laTam,STANDARD,13.99,Referral
+U01090,2024-04-27,,,Standard,12.99,Referral
+U01091,2023-02-16,2023-11-12,LATAM,Basic,9.99,organic
+U01092,2024-04-18,,NA,Premium,18.99,Organic
+U01093,2024-07-28,,emea,Standard,14.99,Paid Social
+U01094,2023-03-19,2023-12-19,LATAM,standard,14.99,refeyral
+U01095,2023-06-11,2023-08-16,emea,PREMIUM,18.99,Partnership
+U01096,2024-04-30,,laTam,Standard,13.99,Paid Social
+U01097,2023-06-13,,APAC,Standard,12.99,paid social
+U01098,2023-07-25,,LATAM,Premium,16.99,Partnership
+U01099,2024-05-27,,north america,Basic,9.99,Paid Social
+U01100,2023-03-05,,LATAM,PREMIUM,17.99,Partnership
+U01101,2023-05-02,,apac,Basic,8.99,Paid Search
+U01102,2023-07-06,2023-06-17,Europe/MENA,Standard,13.99,Partnership
+U01103,2023-05-16,2024-05-12,Europe/MENA,BASIC,8.99,Referral
+U01104,2024-03-04,,NA,Premium,17.99,Partnership
+U01105,2023-02-28,,LatAm,Premium,18.99,Partnership
+U01106,2023-05-02,,LatAm,PREMIUM,17.99,PAID SOCIAL
+U01107,2023-01-03,,emea,Standard,12.99,Paid Search
+U01108,2023-11-14,,emea,Standard,13.99,partnership
+U01109,2023-12-16,,Asia Pacific,Standard,13.99,PARTNERSHIP
+U01110,2024-06-19,,laTam,Premium,17.99,Paid Social
+U01111,2024-04-06,,Asia Pacific,Premium,17.99,Paid Social
+U01112,2023-12-31,,LATAM,Premium,16.99,Referral
+U01113,2023-08-15,,north america,Premium,16.99,Paid Social
+U01114,2023-01-26,2023-12-07,Europe/MENA,Premium,17.99,Partnership
+U01115,2023-06-29,2024-09-29,EMEA,PREMIUM,17.99,paid search
+U01116,2023-08-12,2024-12-09,N. America,Premium,17.99,Paid Search
+U01117,2024-07-03,,LATAM,Basic,8.99,Paid Search
+U01118,2023-08-08,2024-10-04,emea,Basic,8.99,Paid Social
+U01119,2024-06-30,,emea,Premium,17.99,Paid Social
+U01120,2024-10-29,,laTam,standard,12.99,Partnership
+U01121,2023-12-19,,EMEA,basic,,Referral
+U01122,2023-02-25,2023-08-01,north america,Premium,16.99,paid social
+U01123,2024-06-17,,EMEA,Standhrd,11.99,Organic
+U01124,2023-07-25,2023-08-20,LatAm,Premium,18.99,Partnership
+U01125,2024-09-03,,laTam,Premium,18.99,Referral
+U01126,2024-09-06,,North America,Standard,14.99,Paid Seurch
+U01127,2024-04-03,,Asia Pacific,Standard,13.99,Paid Search
+U01128,2024-05-28,,North America,Standard,13.99,Paid Social
+U01129,2024-09-16,,north america,STANDARD,13.99,Paid Search
+U01130,2023-06-03,2024-09-27,emea,Premium,17.99,Partnership
+U01131,2023-11-27,,EMEA,Basic,9.99,Organic
+U01132,2023-03-31,,LATAM,Premium,17.99,referral
+U01133,2024-02-27,,emea,Standard,12.99,Paid Social
+U01134,2023-06-24,,APAC,Busic,12.99,Referral
+U01135,2023-04-26,,laTam,Premium,16.99,PAID SEARCH
+U01136,2023-07-26,,,Premiem,11.99,Partnership
+U01137,2023-02-25,,LatAm,Standard,14.99,Organic
+U01138,2023-02-16,,NA,Standard,13.99,Referral
+U01139,2023-05-09,,APAC,Basic,10.99,Organic
+U01140,2024-09-07,,emea,Standard,12.99,Referral
+U01141,2023-08-27,2024-03-01,Europe/MENA,Basic,9.99,Paid Social
+U01142,2024-04-07,,emea,Standard,13.99,Paid Social
+U01143,2024-08-04,2024-08-15,emea,Basic,10.99,Partnership
+U01144,2024-10-02,2024-09-16,Europe/MENA,Standard,13.99,Organic
+U01145,2024-03-18,,apac,Standard,14.99,Paid Social
+U01146,2023-08-13,2023-09-03,LATAM,,9.99,Organic
+U01147,2023-12-08,,laTam,Basic,8.99,Organic
+U01148,2023-04-07,2023-04-22,N. America,Premium,16.99,Paid Social
+U01149,2023-12-31,2024-09-17,Europe/MENA,Basic,9.99,Referwal
+U01150,2023-08-25,,Asia Pacific,Premium,16.99,Partnership
+U01151,2024-06-27,2024-10-30,Europe/MENA,STANDARD,13.99,paid search
+U01152,2023-11-09,,emea,Standard,13.99,Partnership
+U01153,2023-07-31,2024-10-05,laTam,Standard,13.99,ORGANIC
+U01154,2024-01-24,,north america,Standard,13.99,organic
+U01155,2024-02-24,,north america,Standard,13.99,Paid Socipl
+U01156,2023-12-07,2024-08-10,Asia Pacific,Basic,9.99,Paid Social
+U01157,2023-03-04,2023-08-19,Europe/MENA,Basic,9.99,Referral
+U01158,2024-04-09,,EMEA,Basic,9.99,Organic
+U01159,2023-01-31,2024-04-02,N. America,Basic,9.99,Referral
+U01160,2023-12-02,,APAC,Standard,12.99,Paid Search
+U01161,2024-07-24,,Europe/MENA,Standard,13.99,Partnership
+U01162,2023-09-08,2023-12-24,,Standard,12.99,Organic
+U01163,2024-04-13,,Asia Pacific,Standard,13.99,Referral
+U01164,2023-07-14,2024-05-05,N. America,Premium,16.99,Partnership
+U01165,2023-01-21,,North America,Basic,9.99,Organic
+U01166,2023-03-12,,laTam,standard,14.99,Partnership
+U01167,2023-06-27,,Asia Pacific,Standard,13.99,Referral
+U01168,2024-06-07,,EMEA,Premium,18.99,Organic
+U01169,2024-10-11,,emea,STANDARD,14.99,Partnership
+U01170,2024-10-30,,APAC,Standard,13.99,Referral
+U01171,2024-03-22,,emea,Standard,13.99,Organic
+U01172,2024-04-01,,laTam,Basic,10.99,paid search
+U01173,2023-01-17,2024-04-02,Europe/MENA,Basic,10.99,REFERRAL
+U01174,2024-08-17,,North America,Premium,17.99,Paid Social
+U01175,2024-06-06,,emea,Basic,9.99,Paid Social
+U01176,2024-09-30,,apac,Premium,16.99,Paid Social
+U01177,2023-07-29,,Europe/MENA,Standard,13.99,Paid Social
+U01178,2024-03-23,,apac,Basic,10.99,Paid Search
+U01179,2023-02-01,2023-11-16,North America,Premium,18.99,PaidySocial
+U01180,2024-08-10,2024-08-28,north america,Basic,8.99,PAID SEARCH
+U01181,2023-05-17,2023-10-04,emea,,12.99,PARTNERSHIP
+U01182,2024-01-01,,EMEA,Standard,13.99,Referral
+U01183,2024-02-08,2024-08-22,apac,Premium,16.99,ORGANIC
+U01184,2024-05-21,,emea,Standard,12.99,paid search
+U01185,2023-12-10,2024-12-19,apac,Basic,10.99,Organic
+U01186,2023-08-05,,LATAM,premium,18.99,partnership
+U01187,2023-05-21,2024-04-19,EMEA,Premium,18.99,Organic
+U01188,2024-03-30,,north america,premium,16.99,Referral
+U01189,2023-12-05,2024-02-24,,Basic,9.99,Partneruhip
+U01190,2024-09-24,,LATAM,Stpndard,11.99,Referral
+U01191,2023-03-12,2024-04-23,APAC,Basic,8.99,paid search
+U01192,2024-01-01,2024-02-27,EMEA,Premium,17.99,Partnership
+U01193,2023-09-28,2023-12-12,Europe/MENA,Premium,17.99,Referral
+U01194,2023-11-14,,Europe/MENA,Premium,16.99,Paid Search
+U01195,2023-09-16,,EMEA,STANDARD,13.99,Referral
+U01196,2023-09-07,,laTam,Standard,13.99,PAIv SOCIAL
+U01197,2023-03-23,,,STANDARD,13.99,Paid Search
+U01198,2024-10-28,,north america,Standard,13.99,Paid Social
+U01199,2023-05-05,2023-09-08,LATAM,Basic,9.99,Paid Search
+U01200,2023-09-14,2024-04-12,laTam,BASIC,9.99,Paid Search
+U01201,2023-11-16,,LATAM,Standard,13.99,PAID SOCIAL
+U01202,2024-06-22,,laTam,Standard,13.99,Paid Search
+U01203,2024-01-20,,LatAm,Standard,13.99,Paid Search
+U01204,2023-08-12,2024-06-17,EMEA,Basic,9.99,Partnership
+U01205,2024-05-29,2024-05-12,north america,Standard,13.99,Organic
+U01206,2023-11-08,,LatAm,Standard,14.99,Partnership
+U01207,2024-09-23,,LatAm,STANDARD,13.99,PAID SOCIAL
+U01208,2024-08-13,,EMEA,Standard,12.99,Organic
+U01209,2024-03-03,,NA,Basic,9.99,Organic
+U01210,2023-01-29,,north america,Basic,9.99,partnership
+U01211,2023-12-20,2024-05-14,apac,Basic,9.99,Paid Search
+U01212,2023-03-10,,Europe/MENA,Basic,9.99,PAID SOCIAL
+U01213,2023-09-02,,APAC,Basic,9.99,PAID SEARCH
+U01214,2023-07-16,,LATAM,Basic,10.99,organic
+U01215,2023-09-09,2024-11-14,apac,Basic,8.99,partnership
+U01216,2023-04-01,,EMEA,Basic,10.99,Referral
+U01217,2024-08-23,,Asia Pacific,standard,13.99,Organic
+U01218,2023-11-10,,laTam,Premium,18.99,Referral
+U01219,2024-02-04,2024-01-24,LatAm,Basic,9.99,Paid Social
+U01220,2024-10-02,,north america,Premium,17.99,Referral
+U01221,2023-01-01,,N. America,Standard,12.99,Partnership
+U01222,2024-05-25,,apac,basic,10.99,paid search
+U01223,2024-02-26,,LatAm,Basic,9.99,paid search
+U01224,2023-12-25,2024-06-12,LATAM,Premium,,Paid Social
+U01225,2023-11-17,2024-01-07,Europe/MENA,Premium,17.99,Paid Search
+U01226,2023-02-12,2023-09-09,LATAM,Basic,9.99,Partnership
+U01227,2023-05-26,,NA,standard,13.99,PAID SOCIAL
+U01228,2024-02-07,2024-02-06,APAC,Standard,13.99,REFERRAL
+U01229,2023-10-09,2023-09-25,LATAM,Basic,9.99,Paid Social
+U01230,2024-04-28,2024-07-15,EMEA,Premium,18.99,PAID SOCIAL
+U01231,2024-08-10,,North America,Basic,8.99,Paid Search
+U01232,2024-01-23,,laTam,premium,18.99,Referral
+U01233,2024-04-30,2024-07-14,apac,Basic,9.99,Referral
+U01234,2023-12-10,,laTam,standard,14.99,Referral
+U01235,2024-08-13,,emea,Basic,9.99,Paid Social
+U01236,2023-02-10,,N. America,Premium,17.99,Paid Search
+U01237,2023-06-08,,apac,Premium,17.99,Referril
+U01238,2024-03-02,2024-10-24,North America,Standard,13.99,PAID SOCIAL
+U01239,2023-04-12,,apac,Premijm,11.99,Paid Search
+U01240,2023-12-07,,LATAM,Basic,9.99,partnership
+U01241,2024-06-26,,laTam,Prpmium,12.99,Partnership
+U01242,2023-04-05,2023-05-25,Europe/MENA,Basic,8.99,REFERRAL
+U01243,2023-01-23,,LatAm,Basic,8.99,Referral
+U01244,2024-05-04,,apac,Standard,13.99,Partnership
+U01245,2024-04-17,,North America,Premium,17.99,Partnership
+U01246,2024-09-12,,apac,PREMIUM,17.99,paid social
+U01247,2023-07-05,,emea,Basic,8.99,Paid Search
+U01248,2024-07-05,,LatAm,Basic,10.99,Organic
+U01249,2023-05-04,,LATAM,Premium,18.99,Paid Seajch
+U01250,2024-03-03,,North America,Standard,13.99,Referral
+U01251,2023-01-11,,LatAm,Premium,17.99,Partnership
+U01252,2024-03-04,,EMEA,standard,12.99,Organic
+U01253,2023-11-13,2024-02-26,North America,Premium,16.99,Paid Social
+U01254,2023-03-14,2023-08-31,laTam,Premium,18.99,Paid Social
+U01255,2023-06-24,,N. America,Standard,13.99,Organic
+U01256,2024-10-15,,Asia Pacific,Standard,12.99,Partnership
+U01257,2023-03-30,,N. America,Premium,17.99,Paid Search
+U01258,2023-12-25,,LATAM,Basic,8.99,Referral
+U01259,2023-04-02,,LATAM,Standard,13.99,Paid Social
+U01260,2024-05-18,,Europe/MENA,Premium,17.99,Organic
+U01261,2024-10-08,,APAC,basic,9.99,Paid Search
+U01262,2023-04-30,2023-11-27,emea,Premium,17.99,Paid Social
+U01263,2024-01-23,,emea,Premium,17.99,Organic
+U01264,2024-07-10,,APAC,PREMIUM,16.99,Partnership
+U01265,2023-08-15,,LATAM,Basic,8.99,Partnership
+U01266,2024-01-31,,EMEA,Premium,17.99,PAID SEARCH
+U01267,2024-07-01,,N. America,Premium,16.99,REFERRAL
+U01268,2023-08-01,,emea,Standard,13.99,Partnership
+U01269,2023-11-19,2024-12-06,emea,Premium,17.99,Organic
+U01270,2024-10-10,,APAC,STANDARD,12.99,PAID SOCIAL
+U01271,2024-01-10,,laTam,Basic,9.99,Referral
+U01272,2024-01-02,2024-08-12,laTam,Standard,12.99,Referral
+U01273,2023-07-09,,north america,Standard,13.99,REFERRAL
+U01274,2023-12-21,,LatAm,Basic,9.99,Paid Search
+U01275,2024-03-04,,laTam,Basic,8.99,Partnership
+U01276,2023-04-23,,NA,Basic,9.99,Organic
+U01277,2023-10-25,,North America,Basic,10.99,Paid Social
+U01278,2023-05-29,,Europe/MENA,Basic,9.99,Organic
+U01279,2024-04-10,2024-12-05,Europe/MENA,Standard,14.99,Paid Social
+U01280,2024-01-30,,north america,Premium,17.99,Paid Social
+U01281,2024-08-02,,LatAm,Basic,10.99,Paid Search
+U01282,2023-04-17,,N. America,Basic,10.99,PAID SEARCH
+U01283,2023-02-24,,emea,STANDARD,12.99,REFERRAL
+U01284,2023-08-03,2023-07-28,apac,Basic,8.99,partnyrship
+U01285,2024-09-05,,laTam,Basic,9.99,partnership
+U01286,2024-10-25,,emea,Standard,13.99,Organic
+U01287,2023-11-19,2024-05-19,LATAM,BASIC,9.99,Paid Search
+U01288,2023-09-21,,laTam,STzNDARD,11.99,Paid Search
+U01289,2024-01-30,,N. America,Baiic,11.99,Paid Social
+U01290,2024-09-29,,NA,Basic,10.99,Partnership
+U01291,2023-01-02,,APAC,Standard,14.99,Paid Social
+U01292,2023-08-08,2024-08-29,NA,Standard,13.99,organic
+U01293,2024-07-17,,north america,Premium,16.99,Referral
+U01294,2023-08-20,,LATAM,Standard,13.99,Paid Social
+U01295,2024-10-12,,N. America,Standard,13.99,Paid Social
+U01296,2024-03-31,,North America,Basic,9.99,REFERRAL
+U01297,2024-03-26,2024-10-16,apac,STANDARD,12.99,Paid Search
+U01298,2024-05-27,,Europe/MENA,Standard,13.99,partnership
+U01299,2024-01-16,,,Standard,13.99,Partnership
+U01300,2023-04-26,,North America,BASIC,9.99,Paid Social
+U01301,2023-12-13,,emea,premium,17.99,referral
+U01302,2024-02-23,2024-11-12,Asia Pacific,Standard,14.99,Partnership
+U01303,2024-01-12,,laTam,Standard,13.99,Paid Social
+U01304,2023-09-26,,APAC,Basic,9.99,PAID SEARCH
+U01305,2023-09-16,2024-01-15,apac,PREMIUM,17.99,paid social
+U01306,2024-03-04,,EMEA,Basic,8.99,Paid Search
+U01307,2024-08-15,,LATAM,Basic,8.99,PARTNERSHIP
+U01308,2024-02-27,,EMEA,standard,13.99,Referral
+U01309,2023-10-20,,North America,Standard,13.99,Referral
+U01310,2023-12-20,,EMEA,basic,9.99,Paid Search
+U01311,2023-09-07,,APAC,Standard,14.99,Paid Search
+U01312,2023-05-27,2024-07-11,LATAM,standard,13.99,Organic
+U01313,2024-06-25,,NA,standard,13.99,partnership
+U01314,2023-07-05,,apac,Premium,18.99,PAID SOCIAL
+U01315,2024-03-20,2024-10-15,apac,Standmrd,11.99,Referral
+U01316,2023-07-01,,emea,Standard,13.99,referral
+U01317,2024-10-26,,north america,Standard,12.99,Paid Search
+U01318,2024-08-25,,Europe/MENA,Standard,13.99,paid social
+U01319,2023-11-16,,Europe/MENA,Standard,12.99,PAID SEARCH
+U01320,2023-02-03,,N. America,STANDARD,12.99,Paid Social
+U01321,2023-09-05,2023-12-12,LatAm,Premium,17.99,Paid Social
+U01322,2024-08-01,,LATAM,Basic,8.99,Organic
+U01323,2024-01-03,,North America,Standard,13.99,Organic
+U01324,2024-07-01,,EMEA,,9.99,Paid Search
+U01325,2024-09-22,2024-10-29,APAC,Bmsic,10.99,Pamd Social
+U01326,2024-05-30,,North America,Premium,16.99,ORGANIC
+U01327,2024-09-07,,EMEA,Standard,13.99,Organic
+U01328,2024-09-29,,apac,basic,10.99,Referral
+U01329,2024-05-21,,laTam,Basic,10.99,Partnership
+U01330,2023-04-29,2024-01-12,EMEA,Standard,12.99,Referral
+U01331,2024-01-20,,LATAM,Standard,13.99,Organic
+U01332,2023-01-29,,NA,Standard,12.99,Paid Search
+U01333,2023-04-09,2024-07-07,apac,Basic,9.99,Partnerqhip
+U01334,2024-04-03,,laTam,STANDARD,13.99,PAID SEARCH
+U01335,2023-09-15,,LATAM,Standard,12.99,Referral
+U01336,2023-03-19,,Asia Pacific,standard,13.99,Paid Social
+U01337,2024-10-18,,laTam,Standard,12.99,Paid Social
+U01338,2023-12-08,,Asia Pacific,Standard,13.99,Paid Social
+U01339,2023-03-19,2023-09-04,N. America,Standard,14.99,Paid Social
+U01340,2024-02-13,,emea,Standard,14.99,Referral
+U01341,2023-12-21,2024-01-09,emea,Standard,13.99,Referral
+U01342,2023-01-12,2023-03-04,LATAM,Basic,9.99,Paid Social
+U01343,2024-07-15,,laTam,basic,9.99,Partnership
+U01344,2023-04-22,2024-04-26,north america,Basic,9.99,Referral
+U01345,2023-11-15,2024-11-22,EMEA,Standard,13.99,REFERRAL
+U01346,2024-05-23,,emea,Premium,18.99,PARTNERSHIP
+U01347,2023-04-30,2024-03-25,North America,premium,18.99,Organic
+U01348,2023-02-28,,Europe/MENA,Premium,17.99,organic
+U01349,2023-12-31,,EMEA,Premium,17.99,PAID SOCIAL
+U01350,2024-08-30,,Asia Pacific,Premium,18.99,Paid Social
+U01351,2023-07-25,,apac,Stankard,12.99,Partnership
+U01352,2024-04-29,,North America,Premium,18.99,PAID SOCIAL
+U01353,2024-06-22,,APAC,Standard,14.99,Partnership
+U01354,2023-11-05,,N. America,BASIC,10.99,Paid Social
+U01355,2024-05-19,,emea,BASIC,9.99,Paid Social
+U01356,2023-03-04,,north america,Standard,12.99,paid social
+U01357,2024-10-23,,north america,Basic,9.99,paid social
+U01358,2023-09-13,2024-08-22,EMEA,Basic,9.99,Organic
+U01359,2024-10-24,,North America,Basic,9.99,Paid Search
+U01360,2024-06-07,2024-12-10,APAC,standard,12.99,Organic
+U01361,2024-10-29,,LatAm,Basic,9.99,Paid Search
+U01362,2024-02-19,,apac,Standard,12.99,Referral
+U01363,2023-10-23,2024-06-18,LatAm,Premium,17.99,Paid Sokial
+U01364,2024-05-01,,north america,Standard,12.99,referral
+U01365,2024-07-12,,emea,Standard,,Paid Search
+U01366,2024-08-12,,LatAm,Premium,16.99,Paid Search
+U01367,2024-01-15,2024-09-16,N. America,Premium,17.99,Referral
+U01368,2024-02-25,,north america,standard,12.99,Partnership
+U01369,2023-01-28,2023-01-12,Europe/MENA,Basic,10.99,Referral
+U01370,2024-04-24,,APAC,Basic,10.99,PAID SEARCH
+U01371,2023-02-23,2023-08-12,North America,Standard,13.99,Organic
+U01372,2023-07-02,2024-10-13,N. America,Premium,17.99,partnership
+U01373,2024-05-05,,North America,Premium,17.99,Paid Search
+U01374,2024-06-15,,north america,Standard,12.99,Partnership
+U01375,2023-08-12,,laTam,Basic,9.99,partnership
+U01376,2023-06-26,,apac,,12.99,Paid Social
+U01377,2024-08-03,2024-07-20,LATAM,Basic,10.99,Paid Social
+U01378,2023-03-12,2024-06-05,EMEA,Basic,8.99,Partnership
+U01379,2023-12-04,,Asia Pacific,Premium,16.99,referral
+U01380,2023-03-18,2024-06-06,apac,STANDARD,13.99,PARTNERSHIP
+U01381,2024-08-13,,APAC,Premium,17.99,Paid Search
+U01382,2024-05-07,2024-08-06,NA,STANDARD,12.99,Paid Social
+U01383,2024-06-30,,APAC,Basic,9.99,Paid Search
+U01384,2023-03-20,2024-01-02,APAC,standard,14.99,Paid Search
+U01385,2023-12-11,,laTam,Standard,13.99,PARTNERSHIP
+U01386,2023-05-10,,apac,Standard,13.99,Partnewship
+U01387,2023-08-21,2023-12-08,EMEA,Standard,14.99,paid social
+U01388,2023-01-23,,laTam,Premium,17.99,Partnership
+U01389,2023-02-05,,EMEA,Prkmium,11.99,partnership
+U01390,2024-09-10,,LATAM,STANDARD,13.99,Paid Search
+U01391,2023-02-13,,APAC,PREMIUM,17.99,Partnership
+U01392,2023-08-16,,APAC,slandard,10.99,Partnership
+U01393,2023-10-19,2024-06-22,LATAM,basic,10.99,Partnership
+U01394,2023-12-01,,EMEA,Premium,16.99,Referral
+U01395,2023-04-24,2023-11-28,APAC,Premium,17.99,Paid Search
+U01396,2023-07-09,,APAC,BASIC,9.99,Paid Social
+U01397,2024-02-17,,north america,,8.99,Paid Social
+U01398,2023-11-17,,N. America,Premium,16.99,Referral
+U01399,2024-03-15,2024-09-06,EMEA,STANDARD,13.99,PAID SEARCH
+U01400,2024-06-13,,LATAM,Basic,9.99,Organic
+U01401,2024-09-07,,LatAm,Standard,14.99,Paid Social
+U01402,2023-05-20,,apac,Premium,17.99,Paid Search
+U01403,2023-05-13,2024-06-13,NA,Premium,,ORGANIC
+U01404,2023-05-16,2023-08-14,NA,Basic,8.99,referral
+U01405,2023-03-03,,North America,Standard,14.99,Referral
+U01406,2024-04-18,,apac,Premium,17.99,Organic
+U01407,2023-10-25,,APAC,Standard,13.99,Referral
+U01408,2024-04-26,,apac,Standard,13.99,paid search
+U01409,2024-06-14,,emea,Basic,8.99,Referral
+U01410,2023-07-07,,emea,STANDARD,13.99,Partnership
+U01411,2024-01-22,,Europe/MENA,Standard,14.99,Referral
+U01412,2024-03-28,,LATAM,premium,17.99,Paid Social
+U01413,2023-04-22,,,STANDARD,13.99,Paid Social
+U01414,2023-06-30,2023-07-16,EMEA,Standard,12.99,Referral
+U01415,2023-12-25,2024-09-10,Europe/MENA,Basic,9.99,Organic
+U01416,2024-05-10,,North America,Premium,17.99,Organic
+U01417,2023-07-17,2023-06-30,,basic,9.99,Partnership
+U01418,2023-12-23,2024-07-21,EMEA,Basic,,Referral
+U01419,2023-07-18,2024-04-21,LATAM,Standard,13.99,Partnership
+U01420,2024-06-01,,apac,Premium,17.99,Referral
+U01421,2023-01-08,2024-02-25,emea,Basic,9.99,Paid Social
+U01422,2024-09-16,,Europe/MENA,premium,17.99,Reforral
+U01423,2023-08-12,,Asia Pacific,STANDARD,14.99,Partnership
+U01424,2024-06-10,,Europe/MENA,Standard,13.99,Paid Search
+U01425,2024-02-29,2024-12-09,EMEA,Premium,17.99,Organic
+U01426,2023-05-03,2024-03-14,apac,Premium,18.99,Partnership
+U01427,2023-02-27,,LATAM,Standard,12.99,paid search
+U01428,2023-12-10,,APAC,Basic,9.99,organic
+U01429,2023-09-26,,,STANDARD,14.99,partnership
+U01430,2024-04-01,,apac,Premium,,Paid Search
+U01431,2023-08-21,2024-11-07,Europe/MENA,Standard,13.99,Paid Search
+U01432,2024-05-11,2024-12-04,emea,Basic,10.99,Paid Social
+U01433,2023-11-26,,N. America,Premium,16.99,Partnership
+U01434,2024-06-20,,LatAm,Standard,13.99,Partnership
+U01435,2023-07-14,2024-11-16,emea,Premium,17.99,ORGANIC
+U01436,2023-12-21,2024-12-22,emea,Basic,9.99,Referral
+U01437,2024-10-18,,EMEA,Premium,17.99,Paid Search
+U01438,2023-08-23,,LatAm,Standard,13.99,Paid Search
+U01439,2023-06-04,2023-10-09,Europe/MENA,Basic,8.99,Paid Search
+U01440,2023-10-26,,EMEA,Standard,12.99,Organic
+U01441,2024-10-24,,NA,Standard,13.99,Paid Search
+U01442,2024-01-11,,APAC,Standard,13.99,Paid Social
+U01443,2023-03-24,,north america,Basic,9.99,Organic
+U01444,2023-07-04,2024-09-04,APAC,Standard,14.99,Partnership
+U01445,2023-10-24,2024-11-28,North America,Premium,,Paid Social
+U01446,2024-03-20,2024-12-24,N. America,Standard,13.99,Referral
+U01447,2023-10-06,,north america,STANDARD,13.99,Organic
+U01448,2024-03-22,,emea,Standard,14.99,Referral
+U01449,2023-08-18,2024-01-14,Asia Pacific,Basic,8.99,Referral
+U01450,2024-06-27,,APAC,Basic,8.99,Partnership
+U01451,2023-08-18,2024-04-25,Asia Pacific,Basic,9.99,Paid Search
+U01452,2023-01-18,2024-03-23,north america,Standard,13.99,Referral
+U01453,2024-10-06,,apac,Standard,14.99,Partnership
+U01454,2024-05-26,,laTam,premium,16.99,organic
+U01455,2023-11-04,,NA,Piemium,11.99,Paid Social
+U01456,2023-01-07,2023-11-28,Asia Pacific,Premium,18.99,Paid Search
+U01457,2024-03-15,,LatAm,Standard,13.99,Partnership
+U01458,2024-06-16,,Europe/MENA,Standard,12.99,Paid Social
+U01459,2024-08-27,,laTam,Basic,9.99,Paid Social
+U01460,2024-08-01,,laTam,Standard,13.99,partnership
+U01461,2023-02-08,2023-07-03,LatAm,Standard,12.99,Partnership
+U01462,2024-04-16,,laTam,premium,17.99,Referral
+U01463,2024-08-01,,North America,Premium,17.99,Referral
+U01464,2024-01-21,,EMEA,standard,13.99,Referral
+U01465,2024-10-08,,APAC,,13.99,Paid Search
+U01466,2023-08-11,,EMEA,Basic,10.99,Paid Search
+U01467,2024-08-25,,laTam,Premium,17.99,PAID SEARCH
+U01468,2024-09-12,,LatAm,STANDARD,12.99,Referral
+U01469,2023-06-28,2023-12-10,north america,Basic,10.99,Paid Social
+U01470,2024-04-16,,N. America,Standard,14.99,Partnership
+U01471,2024-09-14,,laTam,Premium,16.99,Paid Social
+U01472,2023-10-01,2024-04-22,emea,Basic,9.99,Paid Search
+U01473,2023-06-20,,EMEA,Premium,16.99,Partnership
+U01474,2024-05-09,,laTam,Premium,16.99,Paid Social
+U01475,2023-05-28,,apac,Standard,13.99,Organic
+U01476,2024-04-27,,laTam,Premium,16.99,Referral
+U01477,2023-07-14,2024-08-22,LATAM,Basic,10.99,Partnership
+U01478,2024-06-10,,LATAM,STANDARD,13.99,Partnership
+U01479,2024-08-09,,North America,Basic,8.99,Referral
+U01480,2024-07-13,,apac,Standard,13.99,Partnership
+U01481,2024-08-19,,apac,Premium,18.99,ORGANIC
+U01482,2024-05-27,2024-11-16,apac,Basic,8.99,Paid Search
+U01483,2024-06-12,2024-11-08,emea,basic,9.99,Paid Search
+U01484,2024-10-13,,Asia Pacific,Standard,14.99,Partnership
+U01485,2023-04-17,2023-07-21,Europe/MENA,Premium,17.99,Paid Search
+U01486,2024-05-02,,apac,Basic,9.99,paid search
+U01487,2023-03-17,2023-12-29,north america,STANDARD,13.99,Organic
+U01488,2024-05-02,,laTam,Basic,9.99,Organic
+U01489,2024-05-17,,LatAm,Standard,13.99,Referral
+U01490,2023-01-31,,emea,Standard,13.99,Organic
+U01491,2023-08-28,2024-04-20,NA,Standard,13.99,Organic
+U01492,2024-09-04,,APAC,Premium,17.99,referral
+U01493,2023-12-09,2023-11-20,EMEA,basic,9.99,Paid Social
+U01494,2023-01-26,2023-11-15,Asia Pacific,Premium,17.99,PAID SOCIAL
+U01495,2024-03-26,,Asia Pacific,standard,13.99,Paid Social
+U01496,2023-10-11,,north america,Premium,16.99,Paid Search
+U01497,2024-07-22,2024-08-23,EMEA,STANDARD,13.99,Paid Social
+U01498,2023-04-13,2024-02-01,North America,STANDARD,,Paid Search
+U01499,2023-03-12,2024-03-24,laTam,Premium,17.99,paid social
+U01500,2023-08-18,2024-04-07,,Standard,13.99,organic
+U01501,2023-09-11,2024-02-13,N. America,Basic,9.99,Paid Search
+U01502,2024-08-03,,N. America,Basic,8.99,PAID SOCIAL
+U01503,2023-11-19,2024-02-19,laTam,Basic,9.99,Paid Social
+U01504,2023-05-17,,APAC,Basic,,Organic
+U01505,2023-06-05,2023-11-07,emea,Premium,17.99,Partnership
+U01506,2023-04-13,,Europe/MENA,Standard,12.99,paid search
+U01507,2024-09-02,2024-12-09,NA,Premium,17.99,Referral
+U01508,2024-02-23,,NA,STANDARD,12.99,Paid Search
+U01509,2023-10-12,,Asia Pacific,Premium,16.99,Partnership
+U01510,2024-02-17,,laTam,premium,17.99,referral
+U01511,2024-01-25,,LatAm,Premium,17.99,PAID SEARCH
+U01512,2023-07-31,,north america,basic,9.99,Paid Social
+U01513,2024-10-07,,Asia Pacific,Basic,9.99,Paid Social
+U01514,2023-05-08,2024-07-17,LatAm,Basic,9.99,Organic
+U01515,2023-07-19,2023-10-01,emea,basic,,Organic
+U01516,2024-10-02,,APAC,Basic,9.99,Paid Social
+U01517,2024-01-10,2023-12-24,APAC,PREMIUM,18.99,Organic
+U01518,2024-09-18,,laTam,standard,13.99,Organic
+U01519,2023-08-18,,LATAM,PREMIUM,17.99,Paid xearch
+U01520,2023-09-21,,Asia Pacific,Premium,17.99,partnership
+U01521,2024-09-16,,,Basic,10.99,Organic
+U01522,2023-03-31,,Europe/MENA,BASIC,9.99,partnership
+U01523,2023-12-30,,apac,Basic,9.99,Paid Search
+U01524,2023-02-28,,APAC,basic,9.99,Paid Social
+U01525,2023-04-20,2023-08-03,Europe/MENA,Premium,17.99,Paid Social
+U01526,2024-08-08,,Europe/MENA,Premium,17.99,Partnership
+U01527,2024-10-30,,Asia Pacific,BASIC,9.99,Paid Social
+U01528,2024-06-09,,Asia Pacific,Standard,12.99,Organic
+U01529,2024-07-16,,APAC,Standard,14.99,Reverral
+U01530,2023-11-05,,LatAm,Premium,17.99,Paid Social
+U01531,2024-10-18,,NA,Standard,13.99,Referral
+U01532,2024-09-16,,LATAM,Basic,8.99,paid social
+U01533,2024-03-08,,apac,basic,9.99,ORGANIC
+U01534,2023-10-12,2024-06-19,emea,Basic,10.99,Referral
+U01535,2023-03-12,2024-04-05,North America,Premium,17.99,Paid Search
+U01536,2024-09-06,,NA,Standard,13.99,Omganic
+U01537,2023-01-11,2023-01-28,EMEA,Standard,13.99,Partnership
+U01538,2023-07-25,2024-09-18,emea,Standard,13.99,REFERRAL
+U01539,2024-02-21,2024-05-04,Asia Pacific,Standard,14.99,Referral
+U01540,2023-04-06,,Europe/MENA,Standard,13.99,Organic
+U01541,2023-12-20,,NA,Premium,17.99,partnership
+U01542,2023-10-14,2024-05-05,,Basic,8.99,PAID SEARCH
+U01543,2024-06-06,,laTam,Standard,12.99,Paid Social
+U01544,2024-08-04,,APAC,standard,13.99,Partnership
+U01545,2024-06-06,,apac,Standard,13.99,PAID SOCIAL
+U01546,2023-07-23,,North America,Premium,17.99,Paid Social
+U01547,2024-03-30,,,Premium,17.99,Referral
+U01548,2023-10-23,,APAC,Premium,16.99,Referral
+U01549,2024-09-30,,Europe/MENA,Premium,18.99,Referral
+U01550,2024-05-10,2024-07-05,N. America,STANDlRD,11.99,Paid Search
+U01551,2023-03-26,2023-04-08,N. America,Basic,9.99,Organic
+U01552,2024-06-08,,laTam,Premium,17.99,Organic
+U01553,2023-07-01,,LatAm,Standard,,paid search
+U01554,2024-01-02,,APAC,Premium,17.99,Referral
+U01555,2023-01-20,,laTam,Standard,13.99,PAID StARCH
+U01556,2024-03-12,,laTam,Standard,12.99,Referral
+U01557,2023-09-12,2023-09-04,APAC,Basic,9.99,Paid Search
+U01558,2024-04-18,,emea,Basic,9.99,Referral
+U01559,2023-06-21,,N. America,Premium,17.99,Partnership
+U01560,2024-05-18,,Europe/MENA,Premium,18.99,PAID SEARCH
+U01561,2023-02-19,,emea,standard,13.99,Paid Search
+U01562,2024-05-08,2024-11-03,Asia Pacific,standard,12.99,referral
+U01563,2024-10-01,,EMEA,Premium,16.99,paid social
+U01564,2023-12-27,2024-12-22,emea,Standard,13.99,organic
+U01565,2024-06-28,,laTam,BASIC,9.99,paid social
+U01566,2023-08-23,2024-10-11,APAC,Standard,14.99,Organic
+U01567,2024-05-19,2024-09-02,Europe/MENA,Basic,8.99,Referral
+U01568,2023-11-14,,north america,Basic,8.99,Partnership
+U01569,2023-04-01,2023-07-06,emea,Standard,12.99,Organic
+U01570,2023-04-19,,LATAM,Standard,13.99,REFERRAL
+U01571,2023-02-05,,N. America,Premium,17.99,referral
+U01572,2023-01-29,2023-09-19,LatAm,Standard,13.99,Referral
+U01573,2023-08-25,,APAC,Premium,17.99,Referral
+U01574,2024-01-18,,LATAM,Basic,8.99,Partnership
+U01575,2023-04-01,,APAC,Premium,18.99,Paid Social
+U01576,2023-03-17,2023-09-18,,Basic,8.99,Referral
+U01577,2023-07-02,2024-03-29,EMEA,Basic,9.99,Referral
+U01578,2024-02-22,,laTam,Premium,17.99,Referral
+U01579,2023-04-16,2024-08-14,North America,Basic,9.99,Partnership
+U01580,2023-10-29,2023-12-15,LatAm,Standard,12.99,Referral
+U01581,2023-12-19,2024-07-25,Asia Pacific,Standard,12.99,Paid Social
+U01582,2023-10-16,,EMEA,Standard,13.99,Refevral
+U01583,2024-07-31,,LATAM,STANDARD,12.99,Organic
+U01584,2024-06-24,,Europe/MENA,Basic,9.99,Organic
+U01585,2024-02-24,,apac,Premium,17.99,REFERRAL
+U01586,2023-11-22,2024-10-16,Europe/MENA,premium,17.99,Paid Search
+U01587,2024-04-01,,APAC,Basic,8.99,Paid Social
+U01588,2024-07-30,,LatAm,Standard,12.99,Paid Social
+U01589,2024-07-18,,N. America,Premium,17.99,Paid eearch
+U01590,2023-11-19,2024-04-12,emea,Premium,17.99,Organic
+U01591,2024-05-23,,north america,Basic,10.99,Organic
+U01592,2023-03-18,,North America,STANDARD,13.99,Referral
+U01593,2024-10-09,,NA,Premium,16.99,Paid Social
+U01594,2024-01-16,2024-06-06,apac,BASIC,9.99,Referral
+U01595,2024-04-23,,apac,Premium,18.99,Paid Search
+U01596,2023-11-13,,North America,Basic,9.99,Paid Search
+U01597,2023-08-06,,,Basic,9.99,Organic
+U01598,2023-01-26,,apac,Basic,,Paid Social
+U01599,2024-06-20,,emea,Premium,17.99,Paid Search
+U01600,2023-10-15,,Asia Pacific,Standard,13.99,Paid Social
+U01601,2023-06-18,,apac,Premium,16.99,paid social
+U01602,2023-12-11,,laTam,Basic,9.99,Paid Social
+U01603,2023-12-12,,LATAM,Basic,10.99,Referral
+U01604,2023-07-03,,Asia Pacific,Standard,12.99,PAID SEARCH
+U01605,2024-10-26,,NA,Basic,9.99,Partnership
+U01606,2023-10-09,,Europe/MENA,premium,16.99,Paid Social
+U01607,2023-03-19,2024-03-03,laTam,Standard,14.99,Organic
+U01608,2024-06-16,,Asia Pacific,Basic,9.99,paid social
+U01609,2023-10-13,2023-11-29,,Premium,18.99,Partnership
+U01610,2024-02-27,,Asia Pacific,Standard,13.99,Partnership
+U01611,2024-05-15,2024-10-20,N. America,Blsic,11.99,Organic
+U01612,2023-02-17,,north america,Premium,16.99,Paid Search
+U01613,2023-11-06,2024-09-22,EMEA,Premium,16.99,Paid Search
+U01614,2023-08-03,,EMEA,Premium,16.99,Organic
+U01615,2023-05-28,,LatAm,Premium,16.99,ORGANIC
+U01616,2023-04-05,,LatAm,,10.99,Partnership
+U01617,2024-10-20,,NA,Premium,17.99,Partnership
+U01618,2024-10-02,2024-09-04,Asia Pacific,BASIC,8.99,paid search
+U01619,2023-12-20,,APAC,Basic,9.99,Partnership
+U01620,2023-03-13,2023-10-15,,Standard,12.99,REFERRAL
+U01621,2024-05-29,,,Standard,13.99,paid social
+U01622,2023-06-14,2023-12-17,laTam,Standard,13.99,REFERRAL
+U01623,2024-05-13,,N. America,PREMIUM,16.99,PAID SOCIAL
+U01624,2024-05-11,,apac,,10.99,ORGANIC
+U01625,2023-01-17,2023-10-09,LatAm,Standard,14.99,Paid Search
+U01626,2023-02-09,2023-03-12,LATAM,Premium,17.99,Partnership
+U01627,2024-09-03,,APAC,Premium,17.99,Referral
+U01628,2023-09-17,,EMEA,Premium,16.99,Paid Social
+U01629,2023-07-09,2024-10-18,Europe/MENA,Premium,18.99,paid social
+U01630,2023-04-08,,laTam,Premium,18.99,partnership
+U01631,2024-09-03,,emea,Basic,10.99,Paid Search
+U01632,2024-03-14,,laTam,Premium,17.99,PAID SEARCH
+U01633,2023-06-09,,laTam,STANDARD,13.99,paid social
+U01634,2023-02-23,2024-01-26,north america,Premium,18.99,Paid Search
+U01635,2024-10-06,,emea,Standard,12.99,Referral
+U01636,2024-08-17,,N. America,Standard,13.99,PAID SOCIAL
+U01637,2024-03-06,,N. America,Standard,13.99,Referral
+U01638,2023-06-10,2024-05-21,laTam,Premium,18.99,Partnership
+U01639,2024-03-31,,LATAM,STANDARD,13.99,paid search
+U01640,2023-06-17,2024-07-22,Europe/MENA,standard,13.99,Paid Search
+U01641,2024-09-23,,laTam,Standard,13.99,Paid Social
+U01642,2023-06-30,,NA,Basic,9.99,Partnership
+U01643,2023-09-13,,NA,,14.99,Partnership
+U01644,2024-08-24,,apac,Basic,9.99,Organic
+U01645,2023-04-25,,Asia Pacific,Premium,18.99,Paid Search
+U01646,2024-09-04,,apac,Standard,14.99,Organic
+U01647,2024-04-07,2024-07-10,emea,Premium,17.99,Organic
+U01648,2023-01-03,,laTam,STANDARD,13.99,ORGANIC
+U01649,2023-08-04,,N. America,Standard,14.99,Referral
+U01650,2024-10-28,,EMEA,Premium,17.99,ORGeNIC
+U01651,2023-04-11,,Europe/MENA,,17.99,Paid Social
+U01652,2024-02-24,,LatAm,Basic,9.99,Paid Social
+U01653,2023-07-14,,apac,STANDARD,13.99,Referral
+U01654,2024-09-12,,Asia Pacific,Premium,17.99,Paid Social
+U01655,2023-05-16,2023-06-19,NA,Basic,9.99,Referral
+U01656,2023-03-27,2023-04-20,Asia Pacific,Standard,14.99,Paid Search
+U01657,2024-05-28,,LATAM,premium,18.99,Paid Social
+U01658,2023-01-21,,NA,Standard,12.99,Partnership
+U01659,2023-04-13,,EMEA,PREMIUM,17.99,paid social
+U01660,2023-01-12,,emea,Standard,12.99,Paid Social
+U01661,2023-10-06,,,Basic,9.99,Referral
+U01662,2024-09-05,,emea,premium,17.99,Paid Search
+U01663,2024-09-04,2024-12-29,NA,Standard,12.99,Organic
+U01664,2023-07-04,,APAC,standard,14.99,Paid Social
+U01665,2024-04-02,,Asia Pacific,Basic,9.99,Paid Search
+U01666,2023-09-09,,LATAM,Basic,9.99,Organic
+U01667,2023-01-13,,APAC,Standard,14.99,paid social
+U01668,2023-05-16,2023-07-26,LATAM,Basic,10.99,Organic
+U01669,2023-07-26,,apac,standard,13.99,Obganic
+U01670,2023-04-09,,EMEA,premium,17.99,Partnership
+U01671,2024-07-30,2024-09-26,laTam,Premium,18.99,Paid Search
+U01672,2023-11-23,,EMEA,Premium,17.99,Referral
+U01673,2024-02-13,,LatAm,Standard,14.99,Paid Social
+U01674,2023-03-30,,LATAM,Premium,16.99,PARTNERSHIP
+U01675,2024-08-02,,NA,premium,18.99,paid search
+U01676,2023-02-19,2023-07-06,apac,Standard,13.99,Organic
+U01677,2024-01-05,2024-01-17,apac,Standard,14.99,Paid Social
+U01678,2023-12-15,2024-05-02,EMEA,Premium,18.99,PAID SOCIAL
+U01679,2024-08-27,,NA,Premium,17.99,Referral
+U01680,2023-10-09,2023-11-26,emea,Basic,9.99,Partnership
+U01681,2024-02-03,,apac,Premium,17.99,partnership
+U01682,2024-04-06,,LatAm,Standard,12.99,Referral
+U01683,2023-03-26,2023-12-01,,STANDARD,13.99,Referral
+U01684,2023-12-18,,N. America,Premium,17.99,Partnership
+U01685,2024-01-27,,North America,PREMIUM,18.99,Referral
+U01686,2023-06-22,2024-03-30,Asia Pacific,standard,12.99,partnership
+U01687,2024-04-22,2024-05-29,EMEA,Standard,13.99,Partnership
+U01688,2023-02-03,,N. America,PREMIUM,18.99,Paid Social
+U01689,2024-07-18,,N. America,Basic,8.99,Referral
+U01690,2024-08-31,2024-08-19,EMEA,,8.99,PAID SOCIAL
+U01691,2024-05-26,,APAC,Basic,9.99,Organic
+U01692,2024-02-10,,APAC,Standard,13.99,Paid Search
+U01693,2023-08-23,2024-12-10,Europe/MENA,Basic,9.99,Referral
+U01694,2023-12-22,,apac,Standard,13.99,Paid Social
+U01695,2024-05-14,,NA,BASIC,9.99,Paid Search
+U01696,2023-01-25,2023-06-12,LatAm,PREMIUM,16.99,Organic
+U01697,2023-02-17,,LATAM,Basic,9.99,Referral
+U01698,2024-01-08,,North America,standard,14.99,Paid Search
+U01699,2024-10-20,,apac,Standard,14.99,Paid Social
+U01700,2023-11-08,,,Premium,17.99,Paid Sncial
+U01701,2024-06-16,,laTam,Premium,17.99,Paid Search
+U01702,2023-03-25,2023-08-15,EMEA,Standard,12.99,Organic
+U01703,2024-01-16,2024-09-02,LatAm,Standard,12.99,referral
+U01704,2024-07-07,,North America,Basic,8.99,Organic
+U01705,2023-12-11,,laTam,Standard,14.99,Referral
+U01706,2023-02-27,,Europe/MENA,Premium,17.99,Partnership
+U01707,2023-03-04,,NA,PREMIUM,17.99,Paid Social
+U01708,2023-09-08,2023-10-17,Europe/MENA,standard,13.99,Paid Social
+U01709,2024-04-17,2024-09-03,NA,Basic,9.99,Organic
+U01710,2023-04-26,,NA,Premium,18.99,Paid Search
+U01711,2023-02-21,,LatAm,PREMIUM,16.99,Organic
+U01712,2023-04-09,2023-07-03,Asia Pacific,Standard,13.99,Paid Social
+U01713,2023-08-02,2024-10-20,apac,Standard,13.99,Partnership
+U01714,2024-04-29,,emea,Suandard,10.99,Referral
+U01715,2024-03-30,,laTam,Premium,16.99,Paid Search
+U01716,2024-03-01,,Europe/MENA,Basic,9.99,PAID SOCIAL
+U01717,2024-07-07,,EMEA,Bakic,11.99,Partnership
+U01718,2023-10-23,2024-07-26,north america,Basic,9.99,Referral
+U01719,2024-04-09,,LatAm,Basic,9.99,Partnership
+U01720,2024-02-17,,emea,Basic,9.99,Partnership
+U01721,2023-08-18,2024-09-18,LatAm,Standard,12.99,Paid Social
+U01722,2023-12-19,,LatAm,Premium,18.99,paid social
+U01723,2024-01-28,,apac,Basic,9.99,PAID SEARCH
+U01724,2024-04-15,,laTam,Standard,13.99,ORGANIC
+U01725,2023-12-01,2024-01-21,EMEA,,12.99,Referral
+U01726,2023-03-19,2023-07-21,laTam,STANDARD,13.99,Paid Search
+U01727,2024-09-08,,Europe/MENA,Premium,17.99,Paid Social
+U01728,2024-06-29,,apac,Standard,12.99,Referral
+U01729,2023-03-30,2023-06-21,north america,BASIC,9.99,Partnership
+U01730,2024-10-24,,EMEA,Standard,12.99,Paid Social
+U01731,2024-05-23,,apac,Standard,12.99,Paid Search
+U01732,2024-05-20,,LatAm,Basic,10.99,paid social
+U01733,2024-08-20,2024-12-09,N. America,Premium,17.99,Paid Social
+U01734,2024-03-04,,apac,basic,8.99,Partnership
+U01735,2024-07-13,,EMEA,Basic,9.99,Paid Social
+U01736,2023-06-17,2024-05-21,Europe/MENA,Premium,18.99,Organic
+U01737,2023-12-01,,north america,Premium,17.99,Partnership
+U01738,2023-12-17,,N. America,Standard,13.99,Organic
+U01739,2023-06-27,,laTam,Basic,9.99,partnership
+U01740,2023-11-18,,N. America,Premium,18.99,Organic
+U01741,2023-09-21,,North America,BASIC,9.99,Paid Social
+U01742,2024-10-04,,LATAM,Basic,10.99,Paid Search
+U01743,2023-12-19,2024-02-10,North America,Premmum,,Referral
+U01744,2023-11-20,,LatAm,Standard,13.99,Referral
+U01745,2024-07-20,,N. America,Basic,9.99,Paid Social
+U01746,2023-03-15,2024-06-20,N. America,Premium,18.99,Referral
+U01747,2023-08-31,,North America,Basic,10.99,PAID SOCIAL
+U01748,2023-11-28,,LATAM,Basic,9.99,Referral
+U01749,2023-08-31,,APAC,Standard,13.99,organic
+U01750,2024-05-31,,Asia Pacific,Premium,17.99,Partnership
+U01751,2023-07-17,,N. America,Basic,10.99,Referral
+U01752,2023-10-18,2024-12-27,LATAM,Premium,17.99,Referral
+U01753,2023-04-29,,N. America,basic,9.99,Paid Search
+U01754,2024-06-17,2024-12-29,LatAm,,17.99,Partnership
+U01755,2024-01-04,,Europe/MENA,Standard,13.99,Partnership
+U01756,2023-02-22,,north america,Standard,12.99,PARTNERSHIP
+U01757,2023-03-12,,EMEA,Premium,16.99,Referral
+U01758,2024-10-08,,north america,Standard,13.99,organic
+U01759,2023-03-08,2024-05-22,APAC,Basic,8.99,Organic
+U01760,2023-03-14,2023-03-10,LATAM,Basic,10.99,Paid Search
+U01761,2023-12-02,,North America,Basic,10.99,Partnership
+U01762,2023-03-17,2024-05-18,North America,Premium,17.99,Paid Search
+U01763,2024-08-01,,North America,Standard,14.99,PAID SEARCH
+U01764,2024-07-27,,Europe/MENA,Standard,13.99,Organic
+U01765,2023-10-17,,LatAm,STANDARD,12.99,Partnership
+U01766,2024-09-22,,NA,Basic,9.99,Organic
+U01767,2023-04-12,2024-02-05,apac,Prerium,11.99,Organic
+U01768,2023-02-16,2023-02-14,LatAm,Premium,18.99,Referral
+U01769,2024-03-31,,LatAm,Premium,17.99,Referral
+U01770,2024-03-12,,apac,PREMIUM,17.99,Paid Social
+U01771,2024-03-12,,LatAm,Premium,17.99,Referral
+U01772,2023-09-14,2024-01-21,EMEA,PREMIUM,17.99,Paid Social
+U01773,2024-06-04,,emea,standard,13.99,Paid Social
+U01774,2023-04-05,2023-12-22,apac,Standard,13.99,Paid Social
+U01775,2023-11-16,2024-02-04,apac,BASIC,10.99,Paid Search
+U01776,2023-10-02,2024-01-24,North America,Premium,17.99,Organic
+U01777,2024-05-31,,Europe/MENA,Premium,18.99,partnership
+U01778,2024-08-05,,Europe/MENA,Basic,9.99,Paid Social
+U01779,2023-11-25,,APAC,Basic,10.99,partnership
+U01780,2024-07-14,,Asia Pacific,Premium,18.99,Partnebship
+U01781,2023-08-12,,apac,Premium,17.99,PAID SOCIAL
+U01782,2024-04-11,2024-12-20,LATAM,PREMIUM,17.99,Orjanic
+U01783,2023-10-01,,EMEA,Basic,9.99,Referral
+U01784,2023-03-22,,EMEA,Standard,13.99,Paid Search
+U01785,2024-03-24,,North America,Standard,13.99,Referral
+U01786,2024-01-30,2024-08-12,emea,Premium,17.99,Paid Search
+U01787,2023-06-15,2024-07-14,Asia Pacific,Standard,13.99,Organic
+U01788,2023-05-01,,laTam,Standard,14.99,Partnership
+U01789,2024-05-25,,APAC,Standard,13.99,partnership
+U01790,2024-01-10,,north america,Standard,14.99,Organic
+U01791,2023-06-24,,NA,Standard,13.99,Paid Search
+U01792,2024-10-20,,laTam,Premium,17.99,Partnership
+U01793,2023-03-26,,APAC,Premium,16.99,Partnership
+U01794,2023-09-29,,laTam,Premium,16.99,Paid Social
+U01795,2024-10-18,,laTam,Standard,14.99,Paid Search
+U01796,2024-03-08,,LatAm,Basic,10.99,Referral
+U01797,2023-10-13,,APAC,Premium,16.99,Organic
+U01798,2023-03-31,2024-01-28,LatAm,Basic,8.99,Organic
+U01799,2024-08-15,,APAC,Basic,8.99,Orianic
+U01800,2024-03-21,,North America,Basic,9.99,Referral
+U01801,2023-06-25,,APAC,Basic,10.99,Paid Social
+U01802,2024-09-18,,LatAm,PREMIUM,16.99,organic
+U01803,2023-11-30,2024-10-20,North America,Premium,17.99,partnership
+U01804,2024-10-18,,NA,basic,9.99,Referral
+U01805,2024-03-11,,LatAm,BASIC,10.99,Partnership
+U01806,2024-08-19,,North America,Premium,17.99,Referral
+U01807,2024-09-27,,EMEA,Premium,17.99,REFERRAL
+U01808,2024-04-27,2024-07-16,LATAM,Standard,14.99,Paid Search
+U01809,2024-04-21,,emea,Standard,12.99,Paid Social
+U01810,2024-06-08,,APAC,,17.99,Referral
+U01811,2024-05-14,,N. America,Standard,13.99,Organic
+U01812,2024-03-08,,APAC,STANDARD,13.99,referral
+U01813,2023-01-21,2023-02-16,north america,Premium,17.99,Organic
+U01814,2024-04-18,,laTam,Premium,17.99,Paid Social
+U01815,2024-05-25,,Europe/MENA,Basic,10.99,Referral
+U01816,2024-10-06,,Europe/MENA,Basic,10.99,Partnership
+U01817,2024-06-22,,,Basic,9.99,Organic
+U01818,2023-07-27,,Europe/MENA,Standard,13.99,Paid Search
+U01819,2023-01-23,2023-11-29,Asia Pacific,Premium,17.99,Partnership
+U01820,2023-05-21,,NA,BiSIC,12.99,ORGANIC
+U01821,2024-06-29,,LatAm,basic,10.99,Referral
+U01822,2024-08-15,,emea,basic,9.99,PaidjSocial
+U01823,2023-09-21,2024-07-19,LatAm,Basic,10.99,Paid Search
+U01824,2023-09-30,,Asia Pacific,PREMIUM,18.99,Paid Search
+U01825,2023-01-05,2023-05-24,APAC,Basic,10.99,Organic
+U01826,2023-05-21,,emea,Premium,18.99,organic
+U01827,2023-04-22,2024-05-04,emea,PREMIUM,17.99,Paid Social
+U01828,2024-03-15,,North America,BASIC,8.99,Referral
+U01829,2024-05-25,,LATAM,Premium,17.99,ORGANIC
+U01830,2023-11-08,,LATAM,standard,13.99,Referral
+U01831,2023-02-24,,north america,,16.99,Referral
+U01832,2023-04-21,,LatAm,PREMIUM,18.99,Paid Search
+U01833,2024-07-29,,NA,standard,12.99,Organic
+U01834,2024-05-06,,LatAm,Basic,9.99,Organic
+U01835,2023-01-24,,apac,Premium,17.99,Organic
+U01836,2023-03-13,,apac,standard,13.99,Organic
+U01837,2024-08-02,2024-12-02,LatAm,Standard,13.99,Organic
+U01838,2024-02-17,2024-09-06,Asia Pacific,Standard,14.99,Partnership
+U01839,2023-06-17,,apac,Premium,17.99,PAID SEARCH
+U01840,2023-10-20,,North America,Basic,8.99,Organic
+U01841,2023-11-23,2024-01-23,laTam,Standard,14.99,REFERRAL
+U01842,2023-12-19,2024-07-14,EMEA,basic,8.99,Paid Social
+U01843,2023-09-22,,north america,BASIC,9.99,Paid Search
+U01844,2023-05-03,2024-02-21,North America,Premium,17.99,Referral
+U01845,2023-10-15,,EMEA,Basic,9.99,Paid Search
+U01846,2023-08-31,,N. America,Premium,17.99,Paid Social
+U01847,2024-07-14,,LATAM,Premium,16.99,Partnership
+U01848,2023-09-09,,APAC,Basic,9.99,Paid Social
+U01849,2024-08-26,,LATAM,Standard,12.99,Organic
+U01850,2024-03-16,,laTam,Basic,8.99,partnership
+U01851,2024-04-08,,north america,Basic,9.99,Paid Search
+U01852,2023-03-07,,north america,Premium,17.99,Paid Social
+U01853,2023-02-10,,emea,Premium,17.99,ORGANIC
+U01854,2023-05-01,,APAC,PREMIUM,16.99,PAIf SEARCH
+U01855,2024-08-08,,NA,Standard,14.99,Organic
+U01856,2024-04-24,,EMEA,Basic,10.99,Referral
+U01857,2023-02-08,,LATAM,standard,13.99,Paid Social
+U01858,2024-06-07,,laTam,premium,16.99,Partnership
+U01859,2023-03-05,,N. America,BASIC,8.99,Referral
+U01860,2023-07-31,,NA,Premium,17.99,ORGANIC
+U01861,2023-12-11,,apac,Standard,13.99,Organic
+U01862,2024-05-29,,LatAm,Basic,9.99,PAID SOCIAL
+U01863,2023-11-26,,Europe/MENA,Standard,14.99,Partnership
+U01864,2024-01-13,,apac,STANDARD,13.99,Organic
+U01865,2024-04-16,,North America,Standard,13.99,Referral
+U01866,2023-12-10,,LATAM,Banic,11.99,PARiNERSHIP
+U01867,2023-06-17,,apac,Premium,18.99,Orgynic
+U01868,2024-02-02,,APAC,Basic,9.99,Paid Social
+U01869,2023-03-30,2023-11-05,Europe/MENA,Premium,18.99,Partnership
+U01870,2023-09-26,,laTam,Premium,17.99,Paid Social
+U01871,2023-11-30,2024-06-08,LatAm,standard,13.99,Organic
+U01872,2023-03-28,,laTam,Standard,12.99,PARTNERSHIP
+U01873,2023-08-09,2024-11-23,NA,Standard,13.99,Partnership
+U01874,2024-06-10,,emea,Premium,17.99,Partnership
+U01875,2024-06-10,,North America,basic,9.99,Paid Search
+U01876,2024-04-05,,Europe/MENA,Premium,17.99,Referral
+U01877,2024-01-13,2024-05-04,LatAm,Premium,16.99,Partnership
+U01878,2024-02-14,,Asia Pacific,Standard,13.99,PARTNERSHIP
+U01879,2024-06-02,2024-07-24,APAC,Premium,17.99,Paid Search
+U01880,2023-08-28,,LatAm,Standard,13.99,Paid Search
+U01881,2023-02-05,,EMEA,PREMIhM,11.99,Partnership
+U01882,2023-11-04,,,Standard,13.99,partnership
+U01883,2024-04-10,,emea,Premium,17.99,REFERRAL
+U01884,2023-02-12,2023-03-17,Asia Pacific,premium,18.99,PaidaSocial
+U01885,2023-06-08,,Asia Pacific,,14.99,Partnership
+U01886,2023-08-23,,north america,Standard,14.99,Referral
+U01887,2023-06-14,2023-12-13,N. America,STANDARD,13.99,paid social
+U01888,2024-08-19,,Asia Pacific,Premium,18.99,Referral
+U01889,2023-04-17,2024-02-12,Europe/MENA,premium,17.99,Referral
+U01890,2024-08-16,,Europe/MENA,Standard,12.99,referral
+U01891,2023-07-18,,EMEA,Standard,12.99,Referral
+U01892,2023-08-13,,Asia Pacific,Standard,14.99,Paid Search
+U01893,2023-09-12,,emea,Premium,17.99,Paid Social
+U01894,2023-04-04,,Asia Pacific,Premium,16.99,Organic
+U01895,2023-01-07,,emea,Standard,12.99,Paid Social
+U01896,2024-01-22,,Asia Pacific,Basic,9.99,Referral
+U01897,2024-08-03,,laTam,Premium,16.99,PAID SOCIAL
+U01898,2023-12-01,2024-08-06,NA,Basic,9.99,Organic
+U01899,2023-05-17,2023-07-22,EMEA,Basic,9.99,Referral
+U01900,2023-04-11,,north america,Standard,13.99,Organic
+U01901,2023-10-23,,LATAM,Premium,17.99,Partnership
+U01902,2024-02-18,,NA,STANDARD,14.99,PAID SEARCH
+U01903,2024-06-30,,EMEA,premium,16.99,Paid Social
+U01904,2023-06-28,,APAC,Standard,12.99,Paid Social
+U01905,2024-01-24,2024-03-07,Asia Pacific,Premium,18.99,Paid Sorial
+U01906,2024-10-09,,APAC,Standard,13.99,paid social
+U01907,2024-06-02,,North America,Basic,9.99,Referral
+U01908,2024-09-18,2024-10-06,North America,PREMIUM,18.99,Orlanic
+U01909,2023-02-25,2023-08-18,EMEA,STANDARD,12.99,Partnership
+U01910,2023-11-05,,EMEA,Basic,9.99,Partnership
+U01911,2024-10-31,2024-12-06,North America,Premium,17.99,Organic
+U01912,2024-07-30,,EMEA,Standard,13.99,Partnership
+U01913,2023-02-02,,EMEA,Premium,16.99,Paid Social
+U01914,2023-12-05,2024-01-15,LatAm,PREMIUM,17.99,Partnership
+U01915,2023-01-15,2023-08-12,Asia Pacific,Standard,12.99,Organic
+U01916,2023-12-24,,north america,Standard,13.99,Referral
+U01917,2023-03-02,,EMEA,Basic,10.99,Organic
+U01918,2024-10-31,,North America,STANDARD,13.99,Referral
+U01919,2023-09-01,2024-07-22,north america,Premium,17.99,Organic
+U01920,2024-03-23,,laTam,premium,17.99,Paid Social
+U01921,2023-11-30,,north america,Basic,9.99,REFERRAL
+U01922,2024-03-21,,N. America,Standard,13.99,Paid Search
+U01923,2023-11-11,2023-11-30,APAC,BASIC,10.99,Paid Social
+U01924,2024-07-05,,north america,STANDARD,13.99,PAID SEARCH
+U01925,2024-05-12,,,Premium,18.99,Paid Social
+U01926,2023-11-21,2024-12-15,APAC,Standard,14.99,Referral
+U01927,2023-08-13,2024-05-13,LATAM,Premium,18.99,Organic
+U01928,2023-03-31,2024-05-23,LatAm,Premium,17.99,Organic
+U01929,2023-11-11,2024-05-11,EMEA,Standard,13.99,PARTNERSHIP
+U01930,2023-01-17,2023-05-29,NA,Basic,9.99,paid social
+U01931,2023-09-10,,LATAM,Standard,12.99,Paid Social
+U01932,2023-05-14,,emea,Premium,17.99,Organic
+U01933,2024-09-14,,LatAm,Premium,17.99,Organic
+U01934,2024-04-25,2024-09-06,laTam,Basic,10.99,partnership
+U01935,2023-12-24,,emea,Standard,13.99,PAID SEARCH
+U01936,2024-10-08,,emea,PREMIUM,17.99,Paid Social
+U01937,2024-06-19,2024-05-21,APAC,Standard,13.99,Paid Search
+U01938,2023-10-09,,APAC,Basic,9.99,Paid Search
+U01939,2023-03-10,,APAC,Standard,13.99,Paid Social
+U01940,2023-12-06,2024-07-04,,Standard,13.99,Referral
+U01941,2024-10-17,,Europe/MENA,BASIC,9.99,Partnership
+U01942,2023-03-24,2024-01-14,APAC,Premium,18.99,REFERRAL
+U01943,2023-07-08,,LATAM,Basic,9.99,Referral
+U01944,2023-12-05,,emea,Premium,16.99,Referral
+U01945,2024-04-02,,emea,Premium,17.99,PARTNERSHIP
+U01946,2023-11-08,2024-08-01,APAC,Standard,13.99,paid search
+U01947,2024-02-11,2024-05-08,emea,Standard,13.99,Paid Search
+U01948,2023-03-03,,NA,Standard,13.99,ORGANIC
+U01949,2023-11-04,,LATAM,Standard,12.99,paid social
+U01950,2023-08-29,2024-02-21,Asia Pacific,STANDARD,13.99,REFERRAL
+U01951,2024-08-02,,EMEA,Premium,17.99,Paid Search
+U01952,2023-09-21,,N. America,Premium,16.99,REFEhRAL
+U01953,2023-09-16,,NA,,17.99,Partnership
+U01954,2024-08-28,,LATAM,premium,17.99,ORGANIC
+U01955,2023-05-11,2024-03-08,APAC,Basic,8.99,Referral
+U01956,2023-03-01,,north america,basic,9.99,Partnership
+U01957,2024-02-01,,LATAM,Basic,8.99,Paid Search
+U01958,2024-05-06,,N. America,Premium,17.99,partnership
+U01959,2023-03-30,,Europe/MENA,premium,17.99,organic
+U01960,2024-02-17,,EMEA,standard,13.99,Partnership
+U01961,2024-02-01,,APAC,Basic,9.99,Partnership
+U01962,2023-05-31,2024-05-19,EMEA,Basic,9.99,paid search
+U01963,2024-08-25,,EMEA,Basic,9.99,Paid Social
+U01964,2023-09-29,,N. America,Premium,17.99,Paid Search
+U01965,2023-09-30,,Europe/MENA,Basic,8.99,PAID SxARCH
+U01966,2024-09-28,,NA,Premium,17.99,organic
+U01967,2024-05-16,,laTam,Standard,13.99,PAID SOCIAL
+U01968,2024-09-25,,North America,STANeARD,11.99,Paid Social
+U01969,2023-07-03,2024-11-05,N. America,Standard,13.99,Paid Social
+U01970,2023-03-21,2023-12-25,LATAM,standard,12.99,Partnership
+U01971,2023-04-24,,EMEA,Premium,16.99,Referral
+U01972,2023-07-18,,EMEA,PREMIUM,18.99,Partnership
+U01973,2023-06-03,2024-04-27,,Premium,,Referral
+U01974,2023-05-15,,emea,BASIC,10.99,Paid Social
+U01975,2024-04-12,,laTam,Premium,18.99,Organic
+U01976,2023-04-29,,apac,Premium,17.99,Organic
+U01977,2024-08-13,,EMEA,Premium,18.99,Partnership
+U01978,2024-08-12,,Asia Pacific,Premium,16.99,Paid Search
+U01979,2024-05-24,,APAC,Standard,14.99,Paid Social
+U01980,2023-02-28,,APAC,Basic,9.99,Organic
+U01981,2023-05-18,2024-01-01,Europe/MENA,Standard,13.99,Organic
+U01982,2024-08-23,,N. America,STANDARD,13.99,Paid Search
+U01983,2024-05-02,,LatAm,Basic,10.99,ORGANIC
+U01984,2024-01-19,,LATAM,basic,9.99,Referral
+U01985,2023-12-27,,NA,Standard,13.99,Organic
+U01986,2024-08-08,,emea,Basic,9.99,Organic
+U01987,2024-03-13,2024-04-07,laTam,Standard,12.99,organic
+U01988,2024-08-13,,APAC,Premium,18.99,Partnership
+U01989,2024-03-26,,emea,standard,12.99,Paid Social
+U01990,2023-12-15,,Asia Pacific,Standard,13.99,Paid Search
+U01991,2024-06-13,,LatAm,Basic,9.99,Referral
+U01992,2024-03-14,,Europe/MENA,Standard,13.99,Paid Search
+U01993,2024-05-14,,NA,Basic,9.99,Referral
+U01994,2024-05-08,,North America,Basic,8.99,Partnership
+U01995,2024-04-30,,Asia Pacific,Standard,13.99,Paid Search
+U01996,2023-09-09,2024-04-18,EMEA,Premium,17.99,Paid Social
+U01997,2024-05-02,,NA,Basic,9.99,Partnership
+U01998,2023-09-03,,EMEA,Basic,9.99,PAID SEARCH
+U01999,2023-04-28,,NA,Basic,9.99,Paid Social
+U02000,2023-12-08,,apac,Standard,13.99,Paid Social
+U01073,2024-03-09,,Europe/MENA,Premium,17.99,Paid Social
+U01049,2024-01-07,,LatAm,Basic,8.99,Paid Social
+U00205,2024-04-10,,,Standard,12.99,Referral
+U00695,2023-12-21,,EMEA,Premium,16.99,Paid Search
+U01759,2023-03-08,2024-05-22,APAC,Basic,8.99,Organic
+U00285,2023-11-13,2024-06-08,Europe/MENA,Basic,9.99,Referral
+U01867,2023-06-17,,apac,Premium,18.99,Orgynic
+U01927,2023-08-13,2024-05-13,LATAM,Premium,18.99,Organic
+U01887,2023-06-14,2023-12-13,N. America,STANDARD,13.99,paid social
+U01725,2023-12-01,2024-01-21,EMEA,Standard,12.99,Referral
+U00869,2023-03-25,,Europe/MENA,basic,9.99,Paid Search
+U01892,2023-08-13,,Asia Pacific,Standard,14.99,Paid Search
+U01783,2023-10-01,,EMEA,Basic,9.99,Referral
+U01704,2024-07-07,,North America,Basic,8.99,Organic
+U00803,2024-04-04,2024-04-30,LATAM,Premium,17.99,Referral
+U01303,2024-01-12,,laTam,Standard,13.99,Paid Social
+U01275,2024-03-04,,laTam,Basic,8.99,Partnership
+U01038,2023-02-12,,LatAm,Standard,13.99,Partnership
+U00596,2024-04-29,2024-04-01,apac,PREMIUM,17.99,Paid Social
+U01913,2023-02-02,,EMEA,Premium,,Paid Social
+U01825,2023-01-05,2023-05-24,APAC,Basic,10.99,Organic
+U01029,2023-06-26,2023-08-12,Asia Pacific,,13.99,ORGANIC
+U00351,2024-01-14,,EMEA,Premium,18.99,Paid Search
+U01090,2024-04-27,,Asia Pacific,Standard,12.99,Referral
+U00003,2023-01-20,2024-05-19,Europe/MENA,Standard,14.99,organic
+U01076,2024-04-08,,LatAm,Basic,8.99,REFERRAL
+U01505,2023-06-05,2023-11-07,,Premium,17.99,Partnership
+U00111,2023-09-09,,north america,Basic,8.99,Paid Social
+U01063,2024-06-17,,laTam,basic,9.99,Paid Social
+U00109,2023-06-20,,N. America,STANDARD,13.99,Paid Search
+U00919,2023-05-17,,EMEA,Premium,17.99,Paid Search
+U00501,2023-01-31,,LATAM,Standard,13.99,Paid Search
+U00362,2023-09-01,,north america,Standard,13.99,Paid Social
+U01548,2023-10-23,,APAC,Premium,16.99,Referral
+U01282,2023-04-17,,N. America,Basic,10.99,PAID SEARCH
+U01159,2023-01-31,2024-04-02,N. America,Basic,9.99,Referral
+U01328,2024-09-29,,apac,basic,10.99,Referral
+U00197,2023-04-29,,Europe/MENA,Premium,17.99,REFERRAL
+U01818,2023-07-27,,Europe/MENA,Standard,13.99,Paid Search
+U00238,2023-06-06,,apac,Basic,9.99,Paid Search
+U00789,2023-01-23,2024-05-10,Asia Pacific,Standard,13.99,Referral
+U00721,2024-10-14,,laTam,STANDARD,13.99,PARTNERSHIP
+U01296,2024-03-31,,North America,Basic,9.99,REFERRAL
+U01410,2023-07-07,,emea,STANDARD,13.99,Partnership
+U01705,2023-12-11,,laTam,Standard,14.99,Referral
+U00545,2023-06-26,,emea,Basic,9.99,Referral
+U01261,2024-10-08,,APAC,basic,9.99,Paid Search
+U01885,2023-06-08,,Asia Pacific,Standard,14.99,Partnership
+U01307,2024-08-15,,LATAM,Basic,8.99,PARTNERSHIP
+U00846,2023-04-29,2023-05-23,Europe/MENA,PREMIUM,17.99,Paid Search
+U00842,2023-06-04,,N. America,Basic,10.99,PARTNERSHIP
+U01318,2024-08-25,,Europe/MENA,Standard,13.99,paid social
+U01546,2023-07-23,,North America,Premium,17.99,Paid Social
+U01648,2023-01-03,,laTam,STANDARD,13.99,ORGANIC
+U01734,2024-03-04,,apac,basic,8.99,Partnership
+U01057,2023-02-20,,EMEA,Premium,17.99,Referral
+U01794,2023-09-29,,laTam,Premium,16.99,Paid Social
+U00173,2024-08-06,,Europe/MENA,Basic,8.99,Paitnership
+U01788,2023-05-01,,laTam,Standard,14.99,Partnership
+U00836,2024-08-29,,EMEA,Premium,18.99,PAID SOCIAL
