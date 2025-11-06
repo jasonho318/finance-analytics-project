@@ -1,0 +1,208 @@
+title_id,country_of_origin,runtime,genre,content_type
+T0001,US,45,Animation,TV Show
+T0002,BR,154,Documentary,Movie
+T0003,JP,50,Romance,TV Show
+T0004,NL,25,Animation,TV Show
+T0005,ES,120,Comedy,Movie
+T0006,ES,41,Fantasy,TV Show
+T0007,AU,33,Animation,TV Show
+T0008,UK,41,Romance,TV Show
+T0009,DE,173,Documentary,Movie
+T0010,KR,61,Romance,Movie
+T0011,US,81,Drama,Movie
+T0012,NL,38,Documentary,TV Show
+T0013,IT,52,Drama,TV Show
+T0014,BR,35,Horror,TV Show
+T0015,ES,-29,Romance,Movie
+T0016,SE,141,Animation,Movie
+T0017,US,30,Horror,TV Show
+T0018,UK,74,Thriller,Movie
+T0019,IN,22,Action,TV Show
+T0020,KR,25,Comedy,TV Show
+T0021,US,37,Action,TV Show
+T0022,IN,144,Action,Movie
+T0023,CA,-5,Animation,TV Show
+T0024,IN,37,Animation,TV Show
+T0025,IN,44,Animation,TV Show
+T0026,UK,84,Action,Movie
+T0027,IT,164,Action,Movie
+T0028,NL,157,Drama,Movie
+T0029,SE,63,Romance,Movie
+T0030,US,35,Horror,TV Show
+T0031,MX,50,Thriller,TV Show
+T0032,MX,33,Comedy,TV Show
+T0033,FR,159,Documentary,Movie
+T0034,CA,75,Horror,Movie
+T0035,SE,112,Action,Movie
+T0036,ES,74,Documentary,Movie
+T0037,SE,128,Fantasy,Movie
+T0038,CA,172,Action,Movie
+T0039,US,69,Thriller,Movie
+T0040,NL,58,Animation,TV Show
+T0041,BR,177,Documentary,Movie
+T0042,IN,57,Animation,TV Show
+T0043,NL,55,Thriller,TV Show
+T0044,US,119,Horror,Movie
+T0045,US,51,Documentary,TV Show
+T0046,US,33,Comedy,TV Show
+T0047,CA,97,Drama,Movie
+T0048,US,175,Sci-Fi,Movie
+T0049,SE,59,Sci-Fi,TV Show
+T0050,IN,94,Comedy,Movie
+T0051,KR,176,Romance,Movie
+T0052,SE,171,Horror,Movie
+T0053,KR,28,Romance,TV Show
+T0054,MX,52,Fantasy,TV Show
+T0055,BR,-9,Action,TV Show
+T0056,SE,41,Fantasy,TV Show
+T0057,MX,77,Thriller,Movie
+T0058,US,45,Documentary,TV Show
+T0059,IT,161,Thriller,Movie
+T0060,SE,72,Horror,Movie
+T0061,KR,27,Documentary,TV Show
+T0062,NL,76,Sci-Fi,Movie
+T0063,UK,21,Comedy,TV Show
+T0064,ES,28,Documentary,TV Show
+T0065,SE,44,Documentary,TV Show
+T0066,IT,48,Horror,TV Show
+T0067,SE,40,Fantasy,TV Show
+T0068,SE,132,Sci-Fi,Movie
+T0069,FR,81,Horror,Movie
+T0070,US,172,Action,Movie
+T0071,FR,149,Sci-Fi,Movie
+T0072,MX,157,Drama,Movie
+T0073,UK,46,Documentary,TV Show
+T0074,UK,116,Romance,Movie
+T0075,IT,136,Thriller,Movie
+T0076,JP,154,Comedy,Movie
+T0077,AU,162,Documentary,Movie
+T0078,ES,23,Comedy,TV Show
+T0079,AU,41,Thriller,TV Show
+T0080,IN,58,Animation,TV Show
+T0081,UK,49,Fantasy,TV Show
+T0082,SE,160,Fantasy,Movie
+T0083,FR,59,Fantasy,TV Show
+T0084,CA,156,Romance,Movie
+T0085,SE,116,Drama,Movie
+T0086,ES,88,Animation,Movie
+T0087,US,36,Animation,TV Show
+T0088,CA,124,Fantasy,Movie
+T0089,US,152,Sci-Fi,Movie
+T0090,BR,133,Comedy,Movie
+T0091,UK,-22,Romance,Movie
+T0092,IT,52,Thriller,TV Show
+T0093,JP,151,Animation,Movie
+T0094,KR,132,Horror,Movie
+T0095,ES,95,Horror,Movie
+T0096,IN,30,,TV Show
+T0097,JP,74,Animation,Movie
+T0098,US,105,Documentary,Movie
+T0099,UK,-4,Action,Movie
+T0100,IN,23,Thriller,TV Show
+T0101,US,41,Thriller,TV Show
+T0102,US,45,Thriller,TV Show
+T0103,MX,176,Fantasy,Movie
+T0104,NL,27,Comedy,TV Show
+T0105,FR,25,Horror,TV Show
+T0106,IT,43,Comedy,TV Show
+T0107,FR,124,Drama,Movie
+T0108,CA,89,Fantasy,Movie
+T0109,DE,92,Fantasy,Movie
+T0110,UK,39,Action,TV Show
+T0111,ES,180,Sci-Fi,Movie
+T0112,CA,150,Drama,Movie
+T0113,DE,161,Comedy,Movie
+T0114,KR,51,Drama,TV Show
+T0115,AU,176,Comedy,Movie
+T0116,FR,52,Thriller,TV Show
+T0117,AU,41,Fantasy,TV Show
+T0118,ES,40,Romance,TV Show
+T0119,MX,117,Documentary,Movie
+T0120,IN,44,Thriller,TV Show
+T0121,NL,25,Action,TV Show
+T0122,AU,-29,Action,TV Show
+T0123,FR,83,Drama,Movie
+T0124,CA,159,Drama,Movie
+T0125,MX,98,Animation,Movie
+T0126,KR,97,Animation,Movie
+T0127,AU,171,Animation,Movie
+T0128,BR,77,Sci-Fi,Movie
+T0129,FR,170,Romance,Movie
+T0130,AU,46,Sci-Fi,TV Show
+T0131,AU,132,Thriller,Movie
+T0132,IT,37,Sci-Fi,TV Show
+T0133,MX,57,Documentary,TV Show
+T0134,IN,94,Documentary,Movie
+T0135,FR,28,Sci-Fi,TV Show
+T0136,KR,78,Action,Movie
+T0137,CA,49,Documentary,TV Show
+T0138,CA,73,Horror,Movie
+T0139,FR,-29,Documentary,TV Show
+T0140,JP,62,Romance,Movie
+T0141,IT,145,Animation,Movie
+T0142,FR,66,Horror,Movie
+T0143,NL,46,Fantasy,TV Show
+T0144,JP,31,Animation,TV Show
+T0145,UK,160,Horror,Movie
+T0146,UK,66,Thriller,Movie
+T0147,KR,111,Romance,Movie
+T0148,CA,131,Documentary,Movie
+T0149,KR,122,Sci-Fi,Movie
+T0150,BR,142,Animation,Movie
+T0151,UK,59,Horror,TV Show
+T0152,BR,26,Romance,TV Show
+T0153,IN,160,Thriller,Movie
+T0154,FR,-19,Fantasy,TV Show
+T0155,ES,179,Horror,Movie
+T0156,IN,37,Romance,TV Show
+T0157,FR,149,Comedy,Movie
+T0158,IN,35,Animation,TV Show
+T0159,KR,25,Horror,TV Show
+T0160,FR,49,Horror,TV Show
+T0161,CA,124,Romance,Movie
+T0162,FR,42,Thriller,TV Show
+T0163,SE,119,Animation,Movie
+T0164,MX,81,Romance,Movie
+T0165,KR,34,Romance,TV Show
+T0166,AU,88,Comedy,Movie
+T0167,IN,45,Action,TV Show
+T0168,BR,39,Horror,TV Show
+T0169,NL,137,Fantasy,Movie
+T0170,US,35,Fantasy,TV Show
+T0171,BR,174,Sci-Fi,Movie
+T0172,FR,-24,Sci-Fi,Movie
+T0173,JP,94,Horror,Movie
+T0174,JP,49,Comedy,TV Show
+T0175,CA,60,,Movie
+T0176,MX,105,Horror,Movie
+T0177,UK,172,Horror,Movie
+T0178,AU,24,Comedy,TV Show
+T0179,DE,31,Drama,TV Show
+T0180,AU,54,Action,TV Show
+T0181,AU,55,Sci-Fi,TV Show
+T0182,IT,46,Fantasy,TV Show
+T0183,AU,72,Sci-Fi,Movie
+T0184,IN,66,Thriller,Movie
+T0185,AU,39,Thriller,TV Show
+T0186,IN,44,Horror,TV Show
+T0187,IN,-22,Comedy,Movie
+T0188,BR,71,Romance,Movie
+T0189,MX,42,Romance,TV Show
+T0190,ES,162,Action,Movie
+T0191,DE,23,Thriller,TV Show
+T0192,AU,169,Drama,Movie
+T0193,CA,89,Comedy,Movie
+T0194,FR,53,Documentary,TV Show
+T0195,JP,98,Romance,Movie
+T0196,IN,157,Sci-Fi,Movie
+T0197,JP,59,,TV Show
+T0198,DE,38,Fantasy,TV Show
+T0199,KR,135,Animation,Movie
+T0200,JP,137,Sci-Fi,Movie
+T0059,KR,156,Thriller,Movie
+T0001,ES,48,Action,Movie
+T0025,AU,45,Animation,Movie
+T0193,NL,88,Fantasy,Movie
+T0101,US,32,Thriller,TV Show
+T0155,US,176,Comedy,TV Show
+T0009,IT,179,Documentary,TV Show
